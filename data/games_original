@@ -1,0 +1,801 @@
+@rank@game_name@platform@genre@global_sales@publisher@developer@release_date@critics_rating@num_critics_rating@users_rating@num_users_rating@rate@year@play_score
+0@17@Grand Theft Auto V@PlayStation 3@Action@21400000.0@Rockstar Games@Rockstar North@2013-09-17@97@50@8.3@4719@M@2013@9.28
+1@24@Grand Theft Auto V@Xbox 360@Action@16379999.999999998@Rockstar Games@Rockstar North@2013-09-17@97@58@8.3@3990@M@2013@9.63
+2@30@Call of Duty: Modern Warfare 3@Xbox 360@Shooter@14760000.0@Activision@Infinity Ward@2011-11-08@88@81@3.5@8631@M@2011@8.53
+3@32@Call of Duty: Black Ops@Xbox 360@Shooter@14640000.0@Activision@Treyarch@2010-11-09@87@89@6.6@1662@M@2010@8.41
+4@35@Call of Duty: Black Ops II@PlayStation 3@Shooter@14030000.0@Activision@Treyarch@2012-11-13@83@21@5.7@1116@M@2012@7.84
+5@36@Call of Duty: Black Ops II@Xbox 360@Shooter@13730000.0@Activision@Treyarch@2012-11-13@83@73@5.3@2517@M@2012@8.38
+6@37@Call of Duty: Modern Warfare 2@Xbox 360@Shooter@13510000.0@Activision@Infinity Ward@2009-11-10@94@100@6.6@3011@M@2009@8.91
+7@38@Call of Duty: Modern Warfare 3@PlayStation 3@Shooter@13460000.0@Activision@Infinity Ward@2011-11-08@88@39@3.3@5320@M@2011@8.01
+8@41@Call of Duty: Black Ops@PlayStation 3@Shooter@12730000.0@Activision@Treyarch@2010-11-09@88@58@6.8@1310@M@2010@8.2
+9@43@Mario Kart 7@3DS@Racing@12210000.0@Nintendo@Retro Studios@2011-12-04@85@73@8.2@860@E@2011@9.09
+10@44@Halo 3@Xbox 360@Shooter@12140000.0@Microsoft Game Studios@Bungie Software@2007-09-25@94@86@8.1@5136@M@2007@8.92
+11@45@Grand Theft Auto V@PlayStation 4@Action@11980000.0@Rockstar Games@Rockstar North@2014-11-18@97@66@8.4@6643@M@2014@9.24
+12@52@Grand Theft Auto IV@Xbox 360@Action@11020000.0@Rockstar Games@Rockstar North@2008-04-29@98@86@7.9@3486@M@2008@8.91
+13@54@Super Mario 3D Land@3DS@Platform@10790000.0@Nintendo@Nintendo@2011-11-13@90@82@8.4@1299@E@2011@9.22
+14@55@Gran Turismo 5@PlayStation 3@Racing@10770000.0@SCEA@Polyphony Digital@2010-11-24@84@82@7.8@1277@E@2010@8.24
+15@56@Call of Duty: Modern Warfare 2@PlayStation 3@Shooter@10690000.0@Activision@Infinity Ward@2009-11-10@94@67@6.6@2454@M@2009@8.67
+16@57@Grand Theft Auto IV@PlayStation 3@Action@10570000.0@Rockstar Games@Rockstar North@2008-04-29@98@64@7.7@4167@M@2008@8.93
+17@63@Halo: Reach@Xbox 360@Shooter@9880000.0@Microsoft Game Studios@Bungie@2010-09-14@91@99@8.4@2788@M@2010@8.95
+18@66@Halo 4@Xbox 360@Shooter@9760000.0@Microsoft Game Studios@343 Industries@2012-11-06@87@87@7.1@3672@M@2012@8.9
+19@71@Call of Duty 4: Modern Warfare@Xbox 360@Shooter@9320000.0@Activision@Infinity Ward@2007-11-05@94@70@8.5@1513@M@2007@8.74
+20@74@Animal Crossing: New Leaf@3DS@Simulation@9090000.0@Nintendo@Nintendo@2013-06-09@88@70@8.7@866@E@2013@9.12
+21@76@The Elder Scrolls V: Skyrim@Xbox 360@Role-Playing@8840000.0@Bethesda Softworks@Bethesda Game Studios@2011-11-11@96@89@8.6@4101@M@2011@9.11
+22@78@FIFA 16@PlayStation 4@Sports@8490000.0@EA Sports@EA Sports@2015-09-22@82@42@4.4@1015@E@2015@8.46
+23@83@FIFA Soccer 13@PlayStation 3@Action@8240000.0@EA Sports@Electronic Arts@2012-09-25@88@37@6.6@389@E@2012@8.59
+24@84@The Sims 3@PC@Simulation@8109999.999999999@Electronic Arts@The Sims Studio@2009-06-02@86@75@7.8@1154@T@2009@8.13
+25@94@Call of Duty: Advanced Warfare@PlayStation 4@Shooter@7600000.0@Activision@Sledgehammer Games@2014-11-03@83@39@5.8@1684@M@2014@8.32
+26@99@Call of Duty: World at War@Xbox 360@Shooter@7370000.0@Activision@Treyarch@2008-11-10@84@84@7.6@683@M@2008@8.11
+27@100@Battlefield 3@Xbox 360@Shooter@7340000.0@Electronic Arts@EA DICE@2011-10-25@84@57@7.5@2190@M@2011@8.33
+28@104@Battlefield 3@PlayStation 3@Shooter@7230000.0@Electronic Arts@EA DICE@2011-10-25@85@38@7.5@1860@M@2011@8.63
+29@109@Mario Kart 8@Wii U@Racing@6960000.0@Nintendo@Nintendo@2014-05-30@88@82@8.8@1944@E@2014@9.21
+30@110@Fallout 4@PlayStation 4@Role-Playing@6960000.0@Bethesda Softworks@Bethesda Game Studios@2015-11-10@87@58@6.7@5668@M@2015@9.0
+31@113@FIFA 14@PlayStation 3@Sports@6900000.0@EA Sports@EA Canada@2013-09-24@86@37@4.4@596@E@2013@8.31
+32@116@Uncharted 3: Drake's Deception@PlayStation 3@Action@6830000.0@SCEA@Naughty Dog@2011-11-01@92@97@8.4@4854@T@2011@9.0
+33@119@Gears of War 2@Xbox 360@Shooter@6760000.0@Microsoft Game Studios@Epic Games@2008-11-07@93@90@7.9@3231@M@2008@8.96
+34@120@Uncharted 2: Among Thieves@PlayStation 3@Action@6730000.0@SCEA@Naughty Dog@2009-10-13@96@105@8.8@7086@T@2009@9.26
+35@121@Call of Duty 4: Modern Warfare@PlayStation 3@Shooter@6720000.0@Activision@Infinity Ward@2007-11-05@94@44@8.4@1227@M@2007@8.6
+36@124@Red Dead Redemption@PlayStation 3@Action@6600000.0@Rockstar Games@Rockstar San Diego@2010-05-18@95@73@8.9@3563@M@2010@9.18
+37@125@FIFA 15@PlayStation 4@Sports@6590000.0@Electronic Arts@EA Sports@2014-09-23@82@47@5.6@1087@E@2014@8.62
+38@127@The Elder Scrolls V: Skyrim@PlayStation 3@Role-Playing@6560000.0@Bethesda Softworks@Bethesda Game Studios@2011-11-11@92@16@6.6@2755@M@2011@8.81
+39@129@Assassin's Creed III@PlayStation 3@Action@6500000.0@Ubisoft@Ubisoft@2012-10-30@85@41@6.9@1571@M@2012@8.67
+40@134@Halo 3: ODST@Xbox 360@Shooter@6360000.0@Microsoft Game Studios@Bungie Software@2009-09-22@83@94@7.6@1582@M@2009@8.57
+41@135@Red Dead Redemption@Xbox 360@Action@6340000.0@Rockstar Games@Rockstar San Diego@2010-05-18@95@96@9.0@2977@M@2010@9.07
+42@138@World of Warcraft@PC@Role-Playing@6280000.0@Blizzard Entertainment@Blizzard Entertainment@2004-11-23@93@57@7.4@3161@T@2004@8.21
+43@141@Gears of War 3@Xbox 360@Shooter@6240000.0@Microsoft Game Studios@Epic Games@2011-09-20@91@96@8.1@1912@M@2011@8.94
+44@142@Gears of War@Xbox 360@Shooter@6110000.0@Microsoft Game Studios@Epic Games@2006-11-07@94@88@8.4@2833@M@2006@8.83
+45@145@Metal Gear Solid 4: Guns of the Patriots@PlayStation 3@Action@6030000.0@Konami@Kojima Productions@2008-06-12@94@82@8.8@4154@M@2008@9.13
+46@147@The Last of Us@PlayStation 3@Action@5990000.0@SCEA@Naughty Dog@2013-06-14@95@98@9.2@12839@M@2013@9.45
+47@149@LittleBigPlanet@PlayStation 3@Platform@5920000.0@SCEA@SCE/WWS@2008-10-27@95@85@6.8@5575@E@2008@8.96
+48@157@Assassin's Creed II@PlayStation 3@Action@5570000.0@Ubisoft@Ubisoft Montreal@2009-11-17@91@70@8.7@1864@M@2009@8.93
+49@159@Assassin's Creed@Xbox 360@Adventure@5550000.0@Ubisoft@Ubisoft Montreal@2007-11-13@81@77@7.6@1355@M@2007@8.32
+50@160@Batman: Arkham City@PlayStation 3@Action@5530000.0@Warner Bros. Interactive Entertainment@Rocksteady Studios@2011-10-18@96@42@8.8@2971@T@2011@9.17
+51@161@Forza Motorsport 3@Xbox 360@Racing@5510000.0@Microsoft Game Studios@Turn 10@2009-10-27@92@90@8.1@558@E@2009@9.0
+52@167@Call of Duty: World at War@PlayStation 3@Shooter@5430000.0@Activision@Treyarch@2008-11-10@85@45@7.7@510@M@2008@8.14
+53@170@Final Fantasy XIII@PlayStation 3@Role-Playing@5360000.0@Square Enix@Square Enix@2010-03-09@83@83@7.1@2858@T@2010@7.76
+54@173@Assassin's Creed III@Xbox 360@Action@5300000.0@Ubisoft@Ubisoft@2012-10-30@84@61@6.8@1342@M@2012@8.67
+55@177@Assassin's Creed II@Xbox 360@Action@5270000.0@Ubisoft@Ubisoft Montreal@2009-11-17@90@82@8.8@1734@M@2009@8.72
+56@182@Diablo III@PC@Role-Playing@5200000.0@Blizzard Entertainment@Blizzard Entertainment@2012-05-15@88@86@4.1@9861@M@2012@8.19
+57@184@New Super Mario Bros. U@Wii U@Platform@5190000.0@Nintendo@Nintendo@2012-11-18@84@70@8.0@891@E@2012@8.48
+58@186@FIFA Soccer 13@Xbox 360@Action@5180000.0@EA Sports@Electronic Arts@2012-09-25@90@48@6.3@429@E@2012@8.33
+59@193@Fable III@Xbox 360@Role-Playing@5130000.0@Microsoft Game Studios@Lionhead Studios@2010-10-26@80@88@6.6@693@M@2010@8.27
+60@194@Call of Duty: Advanced Warfare@Xbox One@Shooter@5130000.0@Activision@Sledgehammer Games@2014-11-03@81@53@5.5@941@M@2014@8.07
+61@195@Microsoft Flight Simulator@PC@Simulation@5120000.0@Xbox Game Studios@Asobo Studio@2020-08-18@91@66@7.2@1281@E@2020@7.71
+62@197@Resident Evil 5@PlayStation 3@Action@5110000.0@Capcom@Capcom@2009-03-13@84@76@7.5@882@M@2009@8.32
+63@198@Grand Theft Auto V@Xbox One@Action@5080000.0@Rockstar Games@Rockstar North@2014-11-18@97@14@7.9@1480@M@2014@9.16
+64@200@FIFA Soccer 11@PlayStation 3@Sports@5080000.0@Electronic Arts@EA Sports@2010-09-28@89@51@8.1@253@E@2010@8.4
+65@209@Fallout 3@Xbox 360@Role-Playing@4960000.0@Bethesda Softworks@Bethesda Game Studios@2008-10-28@93@84@8.4@1902@M@2008@8.95
+66@211@Uncharted: Drake's Fortune@PlayStation 3@Action@4940000.0@SCEA@Naughty Dog@2007-11-16@88@66@7.9@3568@T@2007@8.25
+67@217@God of War III@PlayStation 3@Action@4840000.0@SCEA@SCE Santa Monica@2010-03-16@92@101@8.8@3487@M@2010@9.08
+68@219@Assassin's Creed@PlayStation 3@Adventure@4830000.0@Ubisoft@Ubisoft Montreal@2007-11-13@81@40@7.3@1065@M@2007@8.25
+69@222@FIFA 17@PlayStation 4@Sports@4770000.0@Electronic Arts@EA Sports@2016-09-27@85@42@5.0@909@E@2016@8.62
+70@223@Batman: Arkham City@Xbox 360@Action@4760000.0@Warner Bros. Interactive Entertainment@Rocksteady Studios@2011-10-18@94@87@8.7@1742@T@2011@8.52
+71@229@Forza Motorsport 4@Xbox 360@Racing@4640000.0@Microsoft Game Studios@Turn 10@2011-10-11@91@83@8.3@683@E@2011@8.47
+72@235@Luigi's Mansion: Dark Moon@3DS@Action@4580000.0@Nintendo@Next Level Games@2013-03-24@86@74@8.4@614@E@2013@9.05
+73@236@Splatoon@Wii U@Shooter@4570000.0@Nintendo@Nintendo@2015-05-29@81@88@8.7@1371@E10+@2015@8.88
+74@238@Guitar Hero III: Legends of Rock@Xbox 360@Misc@4530000.0@Activision@Neversoft Entertainment@2007-10-28@85@69@8.1@199@T@2007@8.22
+75@251@The Elder Scrolls IV: Oblivion@Xbox 360@Role-Playing@4390000.0@2K Games@Bethesda Softworks@2006-03-20@94@90@8.7@1295@M@2006@9.01
+76@254@Resistance: Fall of Man@PlayStation 3@Shooter@4350000.0@SCEA@Insomniac Games@2006-11-14@86@70@8.1@846@M@2006@7.99
+77@257@FIFA 14@Xbox 360@Sports@4310000.0@EA Sports@EA Canada@2013-09-24@84@41@4.3@451@E@2013@8.53
+78@260@Fable II@Xbox 360@Role-Playing@4310000.0@Microsoft Game Studios@Lionhead Studios@2008-10-21@89@95@6.6@2602@M@2008@8.71
+79@261@Halo 5: Guardians@Xbox One@Shooter@4260000.0@Microsoft Game Studios@343 Industries@2015-10-27@84@101@6.4@3461@T@2015@8.4
+80@262@Super Mario 3D World@Wii U@Platform@4250000.0@Nintendo@Nintendo@2013-11-22@93@83@8.9@2066@E@2013@9.46
+81@263@Batman: Arkham Asylum@PlayStation 3@Action@4250000.0@Eidos Interactive@Rocksteady Studios@2009-08-25@91@70@8.8@1603@T@2009@8.88
+82@264@Assassin's Creed: Revelations@PlayStation 3@Action@4240000.0@Ubisoft@Ubisoft Montreal@2011-11-15@80@39@7.6@800@M@2011@8.32
+83@272@Uncharted 4: A Thief's End@PlayStation 4@Shooter@4200000.0@SCEA@Naughty Dog@2016-05-10@93@113@8.8@15276@T@2016@9.38
+84@274@Assassin's Creed: Revelations@Xbox 360@Action@4190000.0000000005@Ubisoft@Ubisoft Montreal@2011-11-15@80@77@7.3@699@M@2011@8.39
+85@275@Street Fighter IV@PlayStation 3@Fighting@4190000.0000000005@Capcom@Capcom@2009-02-17@94@61@7.4@398@T@2009@8.52
+86@281@Watch Dogs@PlayStation 4@Action@4139999.9999999995@Ubisoft@Ubisoft Montreal@2014-05-27@80@80@6.5@3521@M@2014@8.4
+87@288@Fallout 4@Xbox One@Role-Playing@4090000.0@Bethesda Softworks@Bethesda Game Studios@2015-11-10@88@39@6.5@2114@M@2015@9.09
+88@290@Fallout: New Vegas@Xbox 360@Role-Playing@4080000.0@Bethesda Softworks@Obsidian Entertainment@2010-10-19@84@81@8.6@1128@M@2010@8.5
+89@292@Forza Motorsport 2@Xbox 360@Racing@4059999.9999999995@Microsoft Game Studios@Turn 10@2007-05-29@90@66@8.3@407@E@2007@8.46
+90@296@Far Cry 4@PlayStation 4@Shooter@4030000.0000000005@Ubisoft@Ubisoft Montreal@2014-11-18@85@83@7.7@2312@M@2014@8.62
+91@300@Fallout 3@PlayStation 3@Role-Playing@4010000.0@Bethesda Softworks@Bethesda Game Studios@2008-10-28@90@57@7.9@1093@M@2008@8.41
+92@302@Left 4 Dead 2@Xbox 360@Shooter@3990000.0@Electronic Arts@Valve Software@2009-11-17@89@76@8.5@763@M@2009@8.79
+93@308@Assassin's Creed IV: Black Flag@PlayStation 3@Action@3890000.0@Ubisoft@Ubisoft@2013-10-29@88@36@8.2@1048@M@2013@8.87
+94@309@Monster Hunter 4 Ultimate@3DS@Role-Playing@3890000.0@Capcom@Capcom@2015-02-13@86@80@8.6@423@T@2015@9.07
+95@310@MotorStorm@PlayStation 3@Racing@3880000.0@SCEA@Evolution Studios@2007-03-06@84@9@7.4@269@T@2007@7.66
+96@311@The Elder Scrolls V: Skyrim@PC@Role-Playing@3880000.0@Bethesda Softworks@Bethesda Game Studios@2011-11-10@94@32@8.4@11751@M@2011@9.23
+97@315@NBA 2K16@PlayStation 4@Sports@3850000.0@Take-Two Interactive@Visual Concepts@2015-09-25@87@51@6.7@445@E10+@2015@8.59
+98@323@Batman: Arkham Knight@PlayStation 4@Action@3790000.0@Warner Bros. Interactive Entertainment@Rocksteady Studios@2015-06-23@87@89@7.9@4292@M@2015@9.02
+99@332@The Witcher 3: Wild Hunt@PlayStation 4@Role-Playing@3730000.0@Warner Bros. Interactive Entertainment@CD Projekt Red Studio@2015-05-19@92@79@9.2@16902@M@2015@9.29
+100@337@Battlefield 4@PlayStation 3@Shooter@3690000.0@Electronic Arts@EA DICE@2013-10-29@80@14@5.9@630@M@2013@8.68
+101@345@Gran Turismo 6@PlayStation 3@Racing@3640000.0@SCEA@Polyphony Digital@2013-12-06@81@81@8.0@936@E@2013@8.28
+102@348@FIFA Soccer 10@PlayStation 3@Sports@3630000.0@Electronic Arts@EA Sports@2009-10-20@91@56@7.6@228@E@2009@8.49
+103@352@Tom Clancy's The Division@PlayStation 4@Shooter@3610000.0@Ubisoft@Massive Entertainment@2016-03-08@80@63@7.0@2550@M@2016@8.3
+104@367@FIFA Soccer 11@Xbox 360@Sports@3530000.0@Electronic Arts@EA Sports@2010-09-28@88@66@7.5@161@E@2010@8.25
+105@370@Left 4 Dead@Xbox 360@Shooter@3520000.0@Electronic Arts@Certain Affinity@2008-11-17@89@67@7.9@1368@M@2008@8.38
+106@372@Resident Evil 5@Xbox 360@Action@3510000.0@Capcom@Capcom@2009-03-13@83@91@7.5@667@M@2009@8.62
+107@374@Assassin's Creed: Brotherhood@Xbox 360@Action@3500000.0@Ubisoft@Ubisoft Montreal@2010-11-16@89@81@8.4@859@M@2010@8.85
+108@376@Batman: Arkham Asylum@Xbox 360@Action@3500000.0@Eidos Interactive@Rocksteady Studios@2009-08-25@92@78@8.7@1303@T@2009@8.81
+109@380@Battlefield: Bad Company 2@Xbox 360@Shooter@3480000.0@EA Games@EA DICE@2010-03-02@88@75@8.6@939@M@2010@8.74
+110@383@Far Cry 3@PlayStation 3@Shooter@3450000.0@Ubisoft@Ubisoft Montreal@2012-12-04@90@32@8.6@1281@M@2012@8.97
+111@387@Battlefield 4@PlayStation 4@Shooter@3430000.0@Electronic Arts@EA DICE@2013-11-12@85@18@7.1@2073@M@2013@8.63
+112@388@LittleBigPlanet 2@PlayStation 3@Platform@3420000.0@SCEA@Media Molecule@2011-01-18@91@86@8.6@778@E@2011@9.11
+113@396@Metal Gear Solid V: The Phantom Pain@PlayStation 4@Action@3380000.0@Konami@Kojima Productions@2015-09-01@93@86@8.2@5886@M@2015@9.25
+114@402@Assassin's Creed IV: Black Flag@Xbox 360@Action@3340000.0@Ubisoft@Ubisoft@2013-10-29@86@35@8.0@852@M@2013@8.72
+115@417@FIFA 16@Xbox One@Sports@3230000.0@EA Sports@EA Sports@2015-09-22@84@45@4.4@482@E@2015@8.14
+116@418@L.A. Noire@PlayStation 3@Adventure@3230000.0@Rockstar Games@Team Bondi@2011-05-17@89@78@7.8@1166@M@2011@8.43
+117@419@Madden NFL 16@PlayStation 4@Sports@3220000.0@EA Sports@EA Sports@2015-08-25@83@37@5.7@198@E@2015@8.41
+118@430@Super Mario Maker@Wii U@Platform@3180000.0@Nintendo@Nintendo@2015-09-11@88@85@8.8@864@E@2015@8.88
+119@431@Fallout: New Vegas@PlayStation 3@Role-Playing@3170000.0@Bethesda Softworks@Obsidian Entertainment@2010-10-19@82@57@8.3@823@M@2010@8.11
+120@446@The Elder Scrolls IV: Oblivion@PlayStation 3@Role-Playing@3120000.0@Bethesda Softworks@4J Studios@2007-03-20@93@45@8.2@707@M@2007@8.48
+121@448@Heavy Rain@PlayStation 3@Adventure@3120000.0@SCEA@Quantic Dream@2010-02-23@87@107@7.8@3156@M@2010@8.46
+122@449@Mass Effect 2@Xbox 360@Role-Playing@3110000.0@Electronic Arts@BioWare@2010-01-26@96@98@8.9@3563@M@2010@9.43
+123@454@Borderlands 2@Xbox 360@Shooter@3070000.0@2K Games@Gearbox Software@2012-09-18@89@59@8.3@985@M@2012@9.08
+124@455@The Legend of Zelda: A Link Between Worlds@3DS@Action@3070000.0@Nintendo@Nintendo@2013-11-22@91@81@9.0@1570@E@2013@9.3
+125@458@Mass Effect 3@Xbox 360@Role-Playing@3070000.0@Electronic Arts@BioWare@2012-03-06@93@74@6.0@3773@M@2012@8.91
+126@460@Far Cry 3@Xbox 360@Shooter@3040000.0@Ubisoft@Ubisoft Montreal@2012-12-04@91@39@8.6@1446@M@2012@8.89
+127@462@Saints Row 2@Xbox 360@Action@3030000.0@THQ@Volition Inc.@2008-10-14@81@75@8.2@358@M@2008@8.1
+128@464@Killzone 2@PlayStation 3@Shooter@3020000.0@SCEA@Guerrilla@2009-02-27@91@94@8.1@1695@M@2009@8.71
+129@468@Gears of War: Ultimate Edition@Xbox One@Shooter@3000000.0@Microsoft Game Studios@Splash Damage@2015-08-25@82@74@7.7@771@M@2015@8.3
+130@469@NBA 2K13@Xbox 360@Sports@3000000.0@2K Sports@Visual Concepts@2012-10-02@88@41@7.3@138@E@2012@8.45
+131@478@Battlefield: Bad Company 2@PlayStation 3@Shooter@2970000.0@EA Games@EA DICE@2010-03-02@88@59@8.5@638@M@2010@8.67
+132@480@Star Wars: The Old Republic@PC@Role-Playing@2970000.0@Electronic Arts@LucasArts@2011-12-20@85@73@6.0@2818@T@2011@8.47
+133@484@Street Fighter IV@Xbox 360@Fighting@2950000.0@Capcom@Capcom@2009-02-17@93@77@7.3@324@T@2009@8.66
+134@490@Mass Effect@Xbox 360@Role-Playing@2930000.0@Microsoft Game Studios@BioWare@2007-11-20@91@74@8.7@1958@M@2007@8.88
+135@494@FIFA 14@PlayStation 4@Sports@2900000.0@EA Sports@EA Canada@2013-11-12@87@26@6.3@727@E@2013@8.59
+136@495@Titanfall@Xbox One@Shooter@2900000.0@Electronic Arts@Respawn Entertainment@2014-03-11@86@68@6.7@2523@M@2014@8.27
+137@507@Madden NFL 13@Xbox 360@Sports@2860000.0@EA Sports@EA Tiburon@2012-08-28@81@36@5.8@185@E@2012@7.93
+138@509@Mortal Kombat@PlayStation 3@Fighting@2850000.0@Warner Bros. Interactive Entertainment@NetherRealm Studios@2011-04-19@84@60@8.5@592@M@2011@8.79
+139@515@Assassin's Creed: Brotherhood@PlayStation 3@Action@2840000.0@Ubisoft@Ubisoft Montreal@2010-11-16@90@59@8.3@1153@M@2010@8.83
+140@517@Madden NFL 10@Xbox 360@Sports@2830000.0@Electronic Arts@EA Tiburon@2009-08-14@85@58@6.2@96@E@2009@8.33
+141@523@Need for Speed: Hot Pursuit@PlayStation 3@Racing@2810000.0@Electronic Arts@Criterion Games@2010-11-16@89@59@7.4@366@E10+@2010@8.74
+142@529@Killzone 3@PlayStation 3@Shooter@2790000.0@SCEA@Guerrilla@2011-02-22@84@85@8.0@1080@M@2011@8.46
+143@534@Battlefield 3@PC@Shooter@2790000.0@Electronic Arts@EA DICE@2011-10-25@89@61@7.6@5416@M@2011@8.46
+144@541@Tekken 6@PlayStation 3@Fighting@2780000.0@Namco Bandai Games America@Namco Bandai Games@2009-10-27@79@63@7.5@274@T@2009@8.08
+145@544@Saints Row: The Third@Xbox 360@Action@2770000.0@THQ@Volition Inc.@2011-11-15@84@70@7.7@531@M@2011@8.65
+146@547@Assassin's Creed IV: Black Flag@PlayStation 4@Action@2740000.0@Ubisoft@Ubisoft@2013-11-12@83@29@7.9@2378@M@2013@8.62
+147@550@L.A. Noire@Xbox 360@Adventure@2720000.0@Rockstar Games@Team Bondi@2011-05-17@89@83@7.9@962@M@2011@8.51
+148@551@Call of Duty 3@Xbox 360@Shooter@2710000.0@Activision@Treyarch@2006-11-07@82@71@6.6@281@T@2006@7.91
+149@554@Mortal Kombat X@PlayStation 4@Fighting@2700000.0@Warner Bros. Interactive Entertainment@Warner Bros. Interactive Entertainment@2015-04-14@83@81@7.8@1103@M@2015@8.79
+150@558@Madden NFL 11@Xbox 360@Sports@2690000.0@Electronic Arts@EA Tiburon@2010-08-10@84@47@5.8@123@E@2010@8.28
+151@560@Skate 3@Xbox 360@Sports@2680000.0@Electronic Arts@EA Black Box@2010-05-11@80@65@8.2@171@T@2010@8.05
+152@563@Need for Speed: Shift@PlayStation 3@Racing@2680000.0@EA Games@Slightly Mad Studios@2009-09-15@84@55@6.9@141@E@2009@7.86
+153@576@LEGO Star Wars: The Complete Saga@Xbox 360@Action@2640000.0@LucasArts@Traveller's Tales@2007-11-06@80@24@7.9@218@E10+@2007@7.87
+154@579@Halo Wars@Xbox 360@Strategy@2630000.0@Microsoft Game Studios@Ensemble Studios@2009-03-03@82@92@7.5@563@T@2009@8.22
+155@584@FIFA Soccer 10@Xbox 360@Sports@2620000.0@Electronic Arts@EA Sports@2009-10-20@90@63@7.4@143@E@2009@8.63
+156@585@NBA 2K12@Xbox 360@Sports@2620000.0@2K Sports@Visual Concepts@2011-10-04@90@42@7.7@144@E@2011@8.64
+157@590@FIFA Soccer 09@PlayStation 3@Sports@2590000.0@EA Sports@EA Canada@2008-10-13@87@42@7.5@114@E@2008@8.16
+158@604@Madden NFL 13@PlayStation 3@Sports@2560000.0@EA Sports@EA Tiburon@2012-08-28@83@22@5.4@107@E@2012@8.25
+159@607@Madden NFL 09@Xbox 360@Sports@2540000.0@Electronic Arts@EA Tiburon@2008-08-12@83@50@6.8@131@E@2008@7.79
+160@614@Marvel: Ultimate Alliance@Xbox 360@Role-Playing@2500000.0@Activision@Raven Software@2006-10-24@82@68@7.7@140@T@2006@7.84
+161@617@Saints Row: The Third@PlayStation 3@Action@2490000.0@THQ@Volition Inc.@2011-11-15@82@50@7.8@442@M@2011@8.52
+162@621@Resistance 2@PlayStation 3@Shooter@2480000.0@SCEA@Insomniac Games@2008-11-04@87@79@6.2@1995@M@2008@8.31
+163@622@Pure@Xbox 360@Racing@2480000.0@Disney Interactive Studios@Black Rock Studio@2008-09-23@85@55@7.8@93@E@2008@8.15
+164@624@NBA 2K13@PlayStation 3@Sports@2480000.0@2K Sports@Visual Concepts@2012-10-02@90@26@8.0@111@E@2012@8.75
+165@626@NBA 2K14@Xbox 360@Sports@2470000.0@2K Sports@Visual Concepts@2013-10-01@87@23@5.0@158@E@2013@8.79
+166@629@Midnight Club: Los Angeles@PlayStation 3@Racing@2450000.0@Rockstar Games@Rockstar San Diego@2008-10-20@82@50@8.3@152@T@2008@8.22
+167@633@Halo: Combat Evolved Anniversary@Xbox 360@Shooter@2440000.0@Microsoft Game Studios@343 Industries@2011-11-15@82@73@8.2@619@M@2011@8.54
+168@646@Madden NFL 16@Xbox One@Sports@2400000.0@EA Sports@EA Sports@2015-08-25@84@23@6.0@134@E@2015@8.32
+169@659@LEGO Star Wars: The Complete Saga@PlayStation 3@Action@2380000.0@LucasArts@Traveller's Tales@2007-11-06@80@18@7.2@114@E10+@2007@8.04
+170@662@Bloodborne@PlayStation 4@Action@2380000.0@SCEA@From Software@2015-03-24@92@100@8.8@11363@M@2015@9.17
+171@663@NBA 2K15@PlayStation 4@Sports@2380000.0@2K Sports@Visual Concepts@2014-10-07@83@50@6.9@308@E@2014@8.49
+172@664@Madden NFL 11@PlayStation 3@Sports@2380000.0@Electronic Arts@EA Tiburon@2010-08-10@83@36@6.1@69@E@2010@8.1
+173@666@Madden NFL 08@Xbox 360@Sports@2370000.0@EA Sports@EA Tiburon@2007-08-14@85@46@7.0@146@E@2007@8.19
+174@667@Half-Life 2@PC@Shooter@2370000.0@VU Games@Valve Software@2004-11-16@96@81@9.2@11707@M@2004@9.08
+175@670@Madden NFL 10@PlayStation 3@Sports@2370000.0@Electronic Arts@EA Tiburon@2009-08-14@85@41@6.9@61@E@2009@8.28
+176@676@Midnight Club: Los Angeles@Xbox 360@Racing@2350000.0@Rockstar Games@Rockstar San Diego@2008-10-20@81@66@8.3@159@T@2008@8.2
+177@682@The Legend of Zelda: Majora's Mask 3D@3DS@Action@2320000.0@Nintendo@GREZZO@2015-02-13@89@82@8.9@754@E10+@2015@9.37
+178@683@NBA 2K16@Xbox One@Sports@2320000.0@Take-Two Interactive@Visual Concepts@2015-09-25@86@14@6.2@126@E10+@2015@8.43
+179@692@LEGO Marvel Super Heroes@Xbox 360@Action@2300000.0@Warner Bros. Interactive Entertainment@TT Games@2013-10-22@80@37@7.8@150@E10+@2013@8.5
+180@693@Guild Wars 2@PC@Action@2300000.0@NCSOFT@ArenaNet@2012-08-28@90@69@8.0@3100@T@2012@8.52
+181@697@God of War: Ascension@PlayStation 3@Action@2290000.0@SCEA@SCE Santa Monica@2013-03-12@80@89@7.6@1241@M@2013@8.37
+182@705@Borderlands 2@PlayStation 3@Shooter@2280000.0@2K Games@Gearbox Software@2012-09-18@91@25@8.2@1030@M@2012@9.08
+183@712@Guitar Hero III: Legends of Rock@PlayStation 3@Misc@2260000.0@Activision@Neversoft Entertainment@2007-10-28@83@45@7.9@62@T@2007@8.11
+184@731@Need for Speed: Hot Pursuit@Xbox 360@Racing@2220000.0@Electronic Arts@Criterion Games@2010-11-16@88@73@7.2@235@E10+@2010@8.17
+185@732@BioShock 2@Xbox 360@Shooter@2210000.0@2K Games@2K Marin@2010-02-09@88@93@8.3@685@M@2010@8.71
+186@735@Rock Band 2@Xbox 360@Misc@2200000.0@MTV Games@Harmonix Music Systems@2008-09-14@92@69@8.2@166@T@2008@8.6
+187@737@Guitar Hero II@Xbox 360@Misc@2200000.0@RedOctane@Harmonix Music Systems@2007-04-03@92@55@8.1@242@T@2007@8.28
+188@742@Pro Evolution Soccer 2012@PlayStation 3@Action@2190000.0@Konami@Konami@2011-09-27@80@41@6.8@143@E@2011@7.86
+189@743@Saints Row@Xbox 360@Action@2190000.0@THQ@Volition Inc.@2006-08-29@81@74@7.6@257@M@2006@8.15
+190@747@Hitman: Absolution@PlayStation 3@Action@2190000.0@Square Enix@Io Interactive@2012-11-20@83@30@7.5@589@M@2012@8.48
+191@750@Forza Motorsport 5@Xbox One@Racing@2180000.0@Microsoft Game Studios@Turn 10@2013-11-22@79@76@6.0@1139@E@2013@7.87
+192@751@Madden NFL 25@Xbox 360@Sports@2180000.0@Electronic Arts@EA Sports@2013-08-27@80@32@5.6@141@E@2013@8.53
+193@754@Final Fantasy XIII@Xbox 360@Role-Playing@2170000.0@Square Enix@Square Enix@2010-03-09@82@54@6.1@651@T@2010@8.2
+194@762@FIFA 15@Xbox One@Sports@2150000.0@Electronic Arts@EA Sports@2014-09-23@82@33@5.4@365@E@2014@8.04
+195@778@NBA 2K12@PlayStation 3@Sports@2110000.0@2K Sports@Visual Concepts@2011-10-04@90@38@6.8@137@E@2011@8.53
+196@779@Borderlands@PlayStation 3@Shooter@2110000.0@2K Games@Gearbox Software@2009-10-20@83@58@7.8@519@M@2009@8.59
+197@786@Mortal Kombat@Xbox 360@Fighting@2110000.0@Warner Bros. Interactive Entertainment@NetherRealm Studios@2011-04-19@86@66@8.3@426@M@2011@8.44
+198@791@Portal 2@Xbox 360@Shooter@2100000.0@Valve Software@Valve Software@2011-04-19@95@66@8.8@1230@E10+@2011@9.01
+199@794@Dead Rising@Xbox 360@Action@2089999.9999999998@Capcom@Capcom@2006-08-08@85@82@7.7@576@M@2006@8.19
+200@796@NBA 2K11@Xbox 360@Action@2089999.9999999998@2K Sports@Visual Concepts@2010-10-05@89@50@8.3@105@E@2010@8.32
+201@809@Skate 3@PlayStation 3@Sports@2080000.0@Electronic Arts@EA Black Box@2010-05-11@80@46@8.0@128@T@2010@8.22
+202@813@Dark Souls@PlayStation 3@Role-Playing@2069999.9999999998@Namco Bandai Games@From Software@2011-10-04@89@54@8.9@2210@M@2011@8.74
+203@817@Tom Clancy's Splinter Cell: Conviction@Xbox 360@Action@2060000.0@Ubisoft@Ubisoft Montreal@2010-04-13@85@90@7.7@669@M@2010@8.65
+204@822@Mario & Luigi: Dream Team@3DS@Role-Playing@2060000.0@Nintendo@Alphadream Corporation@2013-08-11@81@75@8.3@342@E10+@2013@8.38
+205@825@NBA 2K14@PlayStation 3@Sports@2049999.9999999998@2K Sports@Visual Concepts@2013-10-01@84@26@5.1@152@E@2013@8.72
+206@828@Diablo III@PlayStation 3@Role-Playing@2049999.9999999998@Blizzard Entertainment@Blizzard Entertainment@2013-09-03@86@43@6.4@579@M@2013@8.9
+207@832@Dance Central 2@Xbox 360@Misc@2040000.0@Microsoft Game Studios@Harmonix Music Systems@2011-10-25@86@56@8.1@67@T@2011@8.11
+208@838@Madden NFL 15@PlayStation 4@Sports@2029999.9999999998@Electronic Arts@EA Sports@2014-08-26@81@37@6.0@220@E@2014@8.44
+209@842@Dead Space@PlayStation 3@Action@2020000.0@Electronic Arts@EA Redwood Shores@2008-10-13@88@67@8.8@734@M@2008@8.74
+210@843@Call of Duty 2@Xbox 360@Shooter@2020000.0@Activision@Infinity Ward@2005-11-17@89@65@8.2@367@T@2005@8.22
+211@845@Forza Horizon@Xbox 360@Racing@2020000.0@Microsoft Game Studios@Playground@2012-10-23@85@83@8.5@559@T@2012@8.24
+212@847@Tom Clancy's The Division@Xbox One@Shooter@2009999.9999999998@Ubisoft@Massive Entertainment@2016-03-08@80@33@6.9@714@M@2016@8.18
+213@848@LEGO Marvel Super Heroes@PlayStation 3@Action@2000000.0@Warner Bros. Interactive Entertainment@TT Games@2013-10-22@82@22@7.8@95@E10+@2013@8.53
+214@860@Dragon Age: Inquisition@PlayStation 4@Role-Playing@1970000.0@Electronic Arts@BioWare@2014-11-18@89@43@7.4@2772@M@2014@8.95
+215@865@Burnout Paradise@PlayStation 3@Racing@1970000.0@Electronic Arts@Criterion Games@2008-01-22@87@55@7.7@518@E10+@2008@8.37
+216@879@FIFA Soccer 09@Xbox 360@Sports@1940000.0@EA Sports@EA Canada@2008-10-13@87@51@7.9@112@E@2008@8.37
+217@897@Need for Speed: Shift@Xbox 360@Racing@1920000.0@EA Games@Slightly Mad Studios@2009-09-15@83@75@6.5@149@E@2009@8.09
+218@910@Max Payne 3@PlayStation 3@Shooter@1900000.0@Rockstar Games@Rockstar Games@2012-05-15@87@31@7.9@934@M@2012@8.65
+219@912@Madden NFL 09@PlayStation 3@Sports@1890000.0@Electronic Arts@EA Tiburon@2008-08-12@85@38@4.4@134@E@2008@7.96
+220@914@Ratchet & Clank Future: A Crack in Time@PlayStation 3@Platform@1880000.0@SCEA@Insomniac Games@2009-10-27@87@85@8.8@594@E10+@2009@8.6
+221@931@LittleBigPlanet 3@PlayStation 4@Platform@1860000.0@SCEA@Sumo Digital@2014-11-18@79@78@7.1@704@E@2014@8.2
+222@943@Demon's Souls@PlayStation 3@Role-Playing@1840000.0@Atlus@From Software@2009-10-06@89@81@8.7@1825@M@2009@8.85
+223@953@Kirby: Triple Deluxe@3DS@Platform@1820000.0@Nintendo@HAL Labs@2014-05-02@80@68@8.6@313@E@2014@8.83
+224@966@Madden NFL 07@Xbox 360@Sports@1800000.0@EA Sports@EA Tiburon@2006-08-22@80@54@6.0@151@E@2006@7.88
+225@967@NBA 2K11@PlayStation 3@Action@1800000.0@2K Sports@Visual Concepts@2010-10-05@89@46@8.0@111@E@2010@8.67
+226@978@Just Cause 2@PlayStation 3@Action@1780000.0@Square Enix@Avalanche Studios@2010-03-23@83@66@8.0@336@M@2010@8.38
+227@999@Hitman: Absolution@Xbox 360@Action@1760000.0@Square Enix@Io Interactive@2012-11-20@79@51@7.2@510@M@2012@8.28
+228@1003@FIFA Soccer 08@PlayStation 3@Sports@1760000.0@EA Sports@EA Canada@2007-10-09@81@28@6.9@52@E@2007@7.88
+229@1009@Crackdown@Xbox 360@Shooter@1750000.0@Microsoft Game Studios@Realtime Worlds@2007-02-20@83@75@7.9@394@M@2007@8.2
+230@1018@Portal 2@PlayStation 3@Shooter@1740000.0@Valve Software@Valve Software@2011-04-19@95@54@8.7@1164@E10+@2011@9.19
+231@1020@Forza Motorsport 6@Xbox One@Racing@1740000.0@Microsoft Game Studios@Turn 10@2015-09-15@87@85@7.8@902@E@2015@8.62
+232@1028@Overwatch@PlayStation 4@Shooter@1730000.0@Blizzard Entertainment@Blizzard Entertainment@2016-05-23@90@31@6.4@2225@T@2016@8.62
+233@1033@Dishonored@Xbox 360@Action@1730000.0@Bethesda Softworks@Arkane Studios@2012-10-09@88@56@7.9@898@M@2012@8.96
+234@1060@NBA 2K15@Xbox One@Sports@1690000.0@2K Sports@Visual Concepts@2014-10-07@82@9@6.3@102@E@2014@8.35
+235@1061@Saints Row 2@PlayStation 3@Action@1690000.0@THQ@Volition Inc.@2008-10-14@82@50@7.9@168@M@2008@8.34
+236@1062@Saints Row IV@Xbox 360@Action@1690000.0@Deep Silver@Volition Inc.@2013-08-20@81@42@6.6@355@M@2013@8.73
+237@1071@Sid Meier's Civilization V@PC@Strategy@1690000.0@2K Games@Firaxis Games@2010-09-21@90@70@8.0@2816@E10+@2010@9.14
+238@1088@Fight Night Round 3@PlayStation 3@Fighting@1670000.0@EA Sports@EA Chicago@2006-12-05@83@37@7.9@29@T@2006@8.09
+239@1103@Max Payne 3@Xbox 360@Shooter@1660000.0@Rockstar Games@Rockstar Games@2012-05-15@86@80@7.9@952@M@2012@8.3
+240@1124@Until Dawn@PlayStation 4@Adventure@1640000.0@SCEA@Supermassive Games@2015-08-25@79@103@8.3@3410@M@2015@8.6
+241@1134@Just Cause 2@Xbox 360@Action@1620000.0@Square Enix@Avalanche Studios@2010-03-23@81@74@8.0@301@M@2010@8.12
+242@1149@Far Cry 4@Xbox One@Shooter@1610000.0@Ubisoft@Ubisoft Montreal@2014-11-18@82@15@7.7@493@M@2014@8.44
+243@1153@Far Cry 2@Xbox 360@Action@1600000.0@Ubisoft@Ubisoft Montreal@2008-10-21@85@75@6.7@331@M@2008@8.22
+244@1164@Devil May Cry 4@PlayStation 3@Action@1590000.0@Capcom@Capcom@2008-02-05@84@63@8.5@510@M@2008@8.2
+245@1167@SoulCalibur IV@Xbox 360@Fighting@1590000.0@Namco Bandai Games@Namco@2008-07-29@85@62@7.9@175@T@2008@8.0
+246@1170@Wolfenstein: The New Order@PlayStation 4@Shooter@1580000.0@Bethesda Softworks@MachineGames@2014-05-20@79@73@8.0@1580@M@2014@8.4
+247@1175@Need for Speed: Most Wanted@Xbox 360@Racing@1580000.0@Electronic Arts@EA Canada@2005-11-16@83@54@8.5@184@T@2005@8.24
+248@1532@Need for Speed: Most Wanted@Xbox 360@Racing@1290000.0@Electronic Arts@EA Canada@2005-11-16@83@54@8.5@184@T@2005@8.24
+249@1186@Pro Evolution Soccer 2013@PlayStation 3@Sports@1560000.0@Konami@Konami@2012-09-25@82@37@7.0@168@E@2012@8.07
+250@1191@Dark Souls III@PlayStation 4@Role-Playing@1560000.0@Bandai Namco Games@From Software@2016-04-12@89@69@8.9@4028@M@2016@9.1
+251@1195@LEGO Marvel Super Heroes@PlayStation 4@Action@1560000.0@Warner Bros. Interactive Entertainment@TT Games@2013-11-15@83@22@7.6@374@E10+@2013@8.33
+252@1197@Dishonored@PlayStation 3@Action@1550000.0@Bethesda Softworks@Arkane Studios@2012-10-09@89@35@7.9@908@M@2012@8.91
+253@1201@BioShock 2@PlayStation 3@Shooter@1550000.0@2K Games@2K Marin@2010-02-09@88@62@8.2@647@M@2010@8.62
+254@1206@Ni no Kuni: Wrath of the White Witch@PlayStation 3@Role-Playing@1550000.0@Namco Bandai Games@Level 5@2013-01-22@85@89@8.7@1141@E10+@2013@8.82
+255@1220@Fight Night Round 4@PlayStation 3@Fighting@1530000.0@EA Sports@EA Canada@2009-06-23@88@46@7.6@100@T@2009@8.21
+256@1226@FIFA 17@Xbox One@Sports@1530000.0@Electronic Arts@EA Sports@2016-09-27@84@51@5.2@289@E@2016@8.34
+257@1229@Donkey Kong Country: Tropical Freeze@Wii U@Platform@1520000.0@Nintendo@Retro Studios@2014-02-21@83@77@8.9@879@E@2014@8.53
+258@1230@Dead Space 2@Xbox 360@Shooter@1520000.0@Electronic Arts@Visceral Games@2011-01-25@90@83@8.6@826@M@2011@8.82
+259@1240@Call of Duty 3@PlayStation 3@Shooter@1520000.0@Activision@Treyarch@2006-11-14@80@43@6.9@110@T@2006@7.58
+260@1243@Madden NFL 15@Xbox One@Sports@1510000.0@Electronic Arts@EA Sports@2014-08-26@80@19@6.2@139@E@2014@8.2
+261@1254@Resistance 3@PlayStation 3@Shooter@1500000.0@SCEA@Insomniac Games@2011-09-06@83@91@7.8@650@M@2011@8.29
+262@1265@Dead Rising 2@Xbox 360@Action@1500000.0@Capcom@Blue Castle Games@2010-09-28@79@76@7.1@246@M@2010@8.37
+263@1266@Rock Band 2@PlayStation 3@Misc@1500000.0@MTV Games@Harmonix Music Systems@2008-10-19@91@24@8.0@99@T@2008@8.4
+264@1283@Mass Effect 2@PlayStation 3@Role-Playing@1480000.0@Electronic Arts@BioWare@2011-01-17@94@62@8.7@1270@M@2011@9.21
+265@1289@SoulCalibur IV@PlayStation 3@Fighting@1470000.0@Namco Bandai Games@Namco@2008-07-29@85@65@7.8@153@T@2008@7.92
+266@1292@Fight Night Round 3@Xbox 360@Fighting@1470000.0@EA Sports@EA Chicago@2006-02-20@86@67@8.8@270@T@2006@7.95
+267@1293@Metal Gear Rising: Revengeance@PlayStation 3@Action@1470000.0@Konami@PlatinumGames@2013-02-19@80@61@8.0@886@M@2013@8.06
+268@1298@LittleBigPlanet PS Vita@PlayStation Vita@Platform@1470000.0@SCEA@Tarsier Studios@2012-09-18@88@71@8.5@383@E@2012@8.79
+269@1301@Tom Clancy's Ghost Recon: Future Soldier@Xbox 360@Shooter@1460000.0@Ubisoft@Ubisoft Paris@2012-05-22@79@75@7.3@343@M@2012@8.19
+270@1302@Battlefield: Bad Company@Xbox 360@Shooter@1460000.0@EA Games@EA DICE@2008-06-23@83@70@7.7@298@T@2008@8.14
+271@1311@Mass Effect 3@PlayStation 3@Role-Playing@1460000.0@Electronic Arts@BioWare@2012-03-05@93@30@5.8@1968@M@2012@9.02
+272@1318@Diablo III@Xbox 360@Role-Playing@1450000.0@Blizzard Entertainment@Blizzard Entertainment@2013-09-03@87@42@6.7@414@M@2013@8.86
+273@1319@Batman: Arkham Knight@Xbox One@Action@1450000.0@Warner Bros. Interactive Entertainment@Rocksteady Studios@2015-06-23@85@16@7.1@921@M@2015@8.51
+274@1322@Anno 2070@PC@Strategy@1450000.0@Ubisoft@Blue Byte@2011-11-17@83@33@7.1@533@T@2011@6.99
+275@1345@Dead Space 2@PlayStation 3@Shooter@1440000.0@Electronic Arts@Visceral Games@2011-01-25@89@78@8.5@660@M@2011@8.99
+276@1357@UFC Undisputed 2010@PlayStation 3@Fighting@1420000.0@THQ@Yuke's@2010-05-25@85@54@7.3@52@T@2010@8.07
+277@1364@Dead Space@Xbox 360@Action@1420000.0@Electronic Arts@EA Redwood Shores@2008-10-13@89@79@8.8@939@M@2008@8.66
+278@1370@Fight Night Round 4@Xbox 360@Fighting@1410000.0@EA Sports@EA Canada@2009-06-23@87@76@8.1@92@T@2009@8.09
+279@1372@Injustice: Gods Among Us@Xbox 360@Fighting@1410000.0@Warner Bros. Interactive Entertainment@NetherRealm Studios@2013-04-16@81@63@7.9@403@T@2013@8.52
+280@1385@Far Cry 2@PlayStation 3@Action@1400000.0@Ubisoft@Ubisoft Montreal@2008-10-21@85@49@6.6@298@M@2008@8.14
+281@1388@Battlefield 4@PC@Shooter@1400000.0@Electronic Arts@EA DICE@2013-10-19@81@52@6.2@3924@M@2013@8.22
+282@1400@Deus Ex: Human Revolution@Xbox 360@Shooter@1390000.0@Square Enix@Eidos Montreal@2011-08-23@89@70@8.3@755@M@2011@8.83
+283@1405@Titanfall@Xbox 360@Shooter@1380000.0@Electronic Arts@Bluepoint Games@2014-04-08@83@21@6.1@395@M@2014@8.86
+284@1408@Dead Rising 2@PlayStation 3@Action@1380000.0@Capcom@Blue Castle Games@2010-09-28@80@54@6.8@194@M@2010@7.71
+285@1418@Forza Horizon 2@Xbox One@Racing@1370000.0@Microsoft Game Studios@Playground Games@2014-09-30@86@85@8.3@1135@unknown@2014@8.6
+286@1419@MotorStorm: Pacific Rift@PlayStation 3@Racing@1370000.0@SCEA@Evolution Studios@2008-10-28@82@63@8.1@358@T@2008@8.12
+287@1427@Burnout Paradise@Xbox 360@Racing@1360000.0@Electronic Arts@Criterion Games@2008-01-22@88@68@7.0@316@E10+@2008@8.38
+288@1436@Marvel vs. Capcom 3: Fate of Two Worlds@PlayStation 3@Fighting@1350000.0@Capcom@Capcom@2011-02-15@84@56@7.3@160@T@2011@8.12
+289@1438@F1 2010@PlayStation 3@Racing@1350000.0@Codemasters@Codemasters Birmingham@2010-09-22@84@46@8.1@93@E@2010@8.44
+290@1444@Alan Wake@Xbox 360@Action@1350000.0@Microsoft Game Studios@Remedy Entertainment@2010-05-18@83@100@8.2@1378@T@2010@8.67
+291@1445@Battlefield: Bad Company@PlayStation 3@Shooter@1350000.0@EA Games@EA DICE@2008-06-23@84@50@8.1@248@T@2008@8.2
+292@1446@Mortal Kombat X@Xbox One@Fighting@1350000.0@Warner Bros. Interactive Entertainment@Warner Bros. Interactive Entertainment@2015-04-14@86@21@7.5@369@M@2015@8.3
+293@1449@Devil May Cry 4@Xbox 360@Action@1350000.0@Capcom@Capcom@2008-02-05@84@61@8.4@347@M@2008@8.19
+294@1452@Crysis 2@Xbox 360@Action@1350000.0@EA Games@Crytek@2011-03-22@84@72@7.6@570@M@2011@8.43
+295@1455@FIFA Soccer 08@Xbox 360@Sports@1350000.0@EA Sports@EA Canada@2007-10-09@82@43@7.6@61@E@2007@7.94
+296@1459@Lost Planet: Extreme Condition@Xbox 360@Shooter@1340000.0@Capcom@Capcom@2007-01-12@79@76@7.1@212@T@2007@7.84
+297@1472@NBA 2K14@PlayStation 4@Sports@1330000.0@2K Sports@Visual Concepts@2013-11-12@85@20@6.5@387@E@2013@8.45
+298@1479@UFC Undisputed 2010@Xbox 360@Fighting@1330000.0@THQ@Yuke's@2010-05-25@84@70@6.7@84@T@2010@8.21
+299@1487@Dark Souls II@PlayStation 3@Role-Playing@1320000.0@Namco Bandai Games@From Software@2014-03-11@91@69@8.1@1337@T@2014@8.99
+300@1499@Skylanders Giants@Xbox 360@Action@1320000.0@Activision@Toys for Bob@2012-10-21@80@35@6.6@44@E10+@2012@8.11
+301@1503@The Beatles: Rock Band@Xbox 360@Misc@1310000.0@MTV Games@Harmonix Music Systems@2009-09-09@89@76@8.5@132@T@2009@8.8
+302@1504@Tekken 6@Xbox 360@Fighting@1310000.0@Namco Bandai Games America@Namco Bandai Games America@2009-10-27@80@59@7.0@165@T@2009@8.45
+303@1517@Crysis 2@PlayStation 3@Action@1300000.0@EA Games@Crytek@2011-03-22@85@54@7.2@450@M@2011@8.37
+304@1526@Rise of the Tomb Raider@Xbox One@Adventure@1300000.0@Square Enix@Crystal Dynamics@2015-11-10@86@102@8.0@1498@M@2015@8.77
+305@1538@Valkyria Chronicles@PlayStation 3@Role-Playing@1290000.0@Sega@Sega@2008-11-04@86@60@8.8@495@T@2008@8.55
+306@1550@Kid Icarus: Uprising@3DS@Action@1280000.0@Nintendo@Opus@2012-03-23@83@75@8.7@605@E10+@2012@8.98
+307@1559@NBA 2K9@Xbox 360@Sports@1270000.0@2K Sports@Visual Concepts@2008-10-07@84@32@7.1@45@E@2008@8.3
+308@1573@Football Manager 2011@PC@Sports@1260000.0@Sega@Sports Interactive@2010-11-04@85@23@8.3@93@E@2010@8.3
+309@1582@LEGO The Lord of the Rings@Xbox 360@Action@1260000.0@Warner Bros. Interactive Entertainment@TT Games@2012-11-13@80@49@8.4@91@E10+@2012@7.96
+310@1607@The Witcher 3: Wild Hunt@Xbox One@Role-Playing@1240000.0@Warner Bros. Interactive Entertainment@CD Projekt Red Studio@2015-05-19@91@13@9.2@5052@M@2015@9.22
+311@1614@2010 FIFA World Cup South Africa@PlayStation 3@Sports@1230000.0@EA Sports@EA Canada@2010-04-27@82@56@7.5@68@E@2010@8.12
+312@1627@Bayonetta@PlayStation 3@Action@1230000.0@Sega@PlatinumGames@2010-01-05@87@54@7.7@449@M@2010@8.43
+313@1630@Madden NFL 17@PlayStation 4@Sports@1230000.0@EA Sports@EA Sports@2016-08-23@82@35@4.1@156@E@2016@8.33
+314@1632@Fallout 4@PC@Role-Playing@1230000.0@Bethesda Softworks@Bethesda Game Studios@2015-11-09@84@38@5.6@9042@M@2015@8.19
+315@1642@F1 2011@PlayStation 3@Racing@1220000.0@Codemasters@Codemasters@2011-09-20@82@36@7.2@59@E@2011@8.21
+316@1689@Captain Toad: Treasure Tracker@Wii U@Puzzle@1190000.0@Nintendo@Nintendo EAD Tokyo @2014-12-05@81@78@8.6@467@E@2014@8.4
+317@1700@FIFA 14@Xbox One@Sports@1190000.0@EA Sports@EA Canada@2013-11-19@88@22@5.8@356@E@2013@7.97
+318@1703@NBA 2K17@PlayStation 4@Sports@1190000.0@2K Games@Visual Concepts@2016-09-16@88@47@6.3@310@E@2016@8.55
+319@1719@Spore@PC@Strategy@1170000.0@EA Games@Maxis@2008-09-07@84@75@5.6@1970@E10+@2008@8.44
+320@1736@Football Manager 2013@PC@Sports@1170000.0@Sega@Sports Interactive@2012-11-01@86@37@6.9@265@unknown@2012@8.26
+321@1738@Mirror's Edge@Xbox 360@Platform@1170000.0@EA Games@EA DICE@2008-11-11@79@82@7.5@378@T@2008@8.12
+322@1743@Fallout: New Vegas@PC@Role-Playing@1160000.0@Bethesda Softworks@Obsidian Entertainment@2010-10-19@84@39@8.8@4842@M@2010@8.84
+323@1759@Rocksmith@PlayStation 3@Misc@1160000.0@Ubisoft@Ubisoft@2011-10-18@80@27@8.2@54@T@2011@8.05
+324@1766@Ninja Gaiden Sigma@PlayStation 3@Action@1150000.0@Tecmo@Team Ninja@2007-07-03@88@46@7.6@210@M@2007@8.3
+325@1771@Call of Duty 4: Modern Warfare@PC@Shooter@1150000.0@Activision@Infinity Ward@2007-11-05@92@40@8.5@3423@M@2007@8.77
+326@1778@Fight Night Champion@PlayStation 3@Fighting@1150000.0@EA Sports@EA Canada@2011-03-01@84@52@7.2@113@M@2011@8.62
+327@1800@Guitar Hero 5@Xbox 360@Misc@1140000.0@Activision@Neversoft Entertainment@2009-09-01@85@69@6.9@112@T@2009@8.0
+328@1804@ModNation Racers@PlayStation 3@Racing@1130000.0@SCEA@United Front Games@2010-05-25@82@85@8.4@231@E@2010@8.33
+329@1814@Alien: Isolation@PlayStation 4@Shooter@1130000.0@Sega@Creative Assembly@2014-10-07@79@50@8.3@1266@M@2014@8.5
+330@1815@Yakuza 3@PlayStation 3@Action@1130000.0@Sega@Ryu ga Gotoku Studios@2010-03-09@79@77@8.2@246@M@2010@8.14
+331@1817@The Beatles: Rock Band@PlayStation 3@Misc@1130000.0@MTV Games@Harmonix Music Systems@2009-09-09@88@60@8.2@72@T@2009@8.63
+332@1824@Castlevania: Lords of Shadow@PlayStation 3@Action@1120000.0@Konami@Mercury Steam@2010-10-05@85@62@8.1@565@M@2010@8.2
+333@1838@Sunset Overdrive@Xbox One@Shooter@1110000.0@Microsoft Game Studios@Insomniac Games@2014-10-28@81@89@7.8@1459@M@2014@8.35
+334@1845@Pikmin 3@Wii U@Strategy@1110000.0@Nintendo@Nintendo@2013-08-04@87@79@8.7@783@E10+@2013@8.62
+335@1849@Guitar Hero 5@PlayStation 3@Misc@1100000.0@Activision@Neversoft Entertainment@2009-09-01@86@54@5.8@91@T@2009@8.09
+336@1855@LEGO The Lord of the Rings@PlayStation 3@Action@1100000.0@Warner Bros. Interactive Entertainment@TT Games@2012-11-13@82@16@8.3@108@E10+@2012@8.47
+337@1876@Skate 2@Xbox 360@Sports@1090000.0@EA Games@EA Black Box@2009-01-21@84@70@8.1@81@T@2009@8.17
+338@1878@Virtua Fighter 5@PlayStation 3@Fighting@1090000.0@Sega@Sega AM2@2007-02-20@85@47@7.3@81@T@2007@7.97
+339@1884@Empire: Total War@PC@Strategy@1090000.0@Sega@Creative Assembly@2009-03-03@90@62@7.0@3142@T@2009@8.69
+340@1896@Prince of Persia@PlayStation 3@Action@1080000.0@Ubisoft@Ubisoft Montreal@2008-12-02@85@59@7.4@316@T@2008@8.16
+341@1898@Grand Theft Auto V@PC@Action@1080000.0@Rockstar Games@Rockstar North@2015-04-13@96@57@7.8@7549@M@2015@8.72
+342@1910@DiRT 3@PlayStation 3@Racing@1080000.0@Codemasters@Codemasters@2011-05-24@87@52@7.2@130@T@2011@8.58
+343@1918@Marvel vs. Capcom 3: Fate of Two Worlds@Xbox 360@Fighting@1080000.0@Capcom@Capcom@2011-02-15@85@77@7.1@174@T@2011@8.15
+344@1924@Bully: Scholarship Edition@Xbox 360@Action@1070000.0@Rockstar Games@Mad Doc Software@2008-03-04@80@56@8.3@205@T@2008@8.18
+345@1933@F1 2012@PlayStation 3@Racing@1070000.0@Codemasters@Codemasters@2012-09-18@81@23@7.5@57@E@2012@8.31
+346@1944@Darksiders@Xbox 360@Action@1060000.0@THQ@Vigil Games@2010-01-05@83@81@7.9@345@M@2010@8.53
+347@1950@Sleeping Dogs@PlayStation 3@Action@1060000.0@Square Enix@United Front Games@2012-08-14@83@40@7.7@720@M@2012@8.8
+348@1957@DJ Hero@Xbox 360@Misc@1060000.0@Activision@FreeStyleGames@2009-10-27@84@72@7.9@44@T@2009@8.18
+349@1964@Warhawk@PlayStation 3@Simulation@1060000.0@SCEA@Incognito Inc.@2007-08-28@84@50@8.3@198@T@2007@8.27
+350@1977@UFC Undisputed 3@PlayStation 3@Action@1050000.0@THQ@Yuke's@2012-02-14@86@30@7.5@108@T@2012@8.41
+351@2006@Project CARS@PlayStation 4@Racing@1040000.0@Bandai Namco Games@Slightly Mad Studios@2015-05-12@83@37@6.5@439@E@2015@7.99
+352@2018@Rayman Origins@PlayStation 3@Platform@1030000.0@Ubisoft@UBlart Montpellier@2011-11-15@87@43@8.5@287@E10+@2011@8.8
+353@2024@Tomb Raider@PC@Action@1030000.0@Square Enix@Crystal Dynamics@2013-03-04@86@18@8.4@4623@M@2013@8.87
+354@2027@Bulletstorm@Xbox 360@Shooter@1020000.0@Electronic Arts@Epic Games@2011-02-22@84@83@7.6@470@M@2011@8.58
+355@2038@Ace Combat 6: Fires of Liberation@Xbox 360@Simulation@1020000.0@Namco Bandai Games America@Project Aces @2007-10-23@80@54@8.0@116@T@2007@8.2
+356@2043@Bayonetta 2@Wii U@Action@1010000.0@Nintendo@PlatinumGames@2014-09-20@91@80@8.9@1338@M@2014@9.36
+357@2044@Prince of Persia@Xbox 360@Action@1010000.0@Ubisoft@Ubisoft Montreal@2008-12-02@81@73@7.1@223@T@2008@7.92
+358@2047@Ninja Gaiden II@Xbox 360@Action@1010000.0@Tecmo@Team Ninja@2008-06-03@81@74@8.0@356@M@2008@8.44
+359@2055@Rayman Legends@PlayStation 4@Platform@1010000.0@Ubisoft@Ubisoft Montpellier@2014-02-18@90@16@8.4@961@E10+@2014@8.84
+360@2068@UFC Undisputed 3@Xbox 360@Action@1000000.0@THQ@Yuke's@2012-02-14@85@60@7.5@96@T@2012@8.14
+361@2080@Dark Souls@Xbox 360@Role-Playing@1000000.0@Namco Bandai Games@From Software@2011-10-04@89@66@8.7@1507@M@2011@8.68
+362@2091@NCAA Football 12@Xbox 360@Sports@990000.0@EA Sports@EA Sports@2011-07-12@82@25@6.6@55@E@2011@7.9
+363@2105@Fallout 3@PC@Role-Playing@990000.0@Bethesda Softworks@Bethesda Game Studios@2008-10-28@91@48@7.8@4669@M@2008@8.1
+364@2108@Far Cry 3@PC@Shooter@980000.0@Ubisoft@Ubisoft Montreal@2012-12-04@88@43@8.4@4412@M@2012@8.71
+365@2118@South Park: The Stick of Truth@PlayStation 3@Role-Playing@980000.0@Ubisoft@Obsidian Entertainment@2014-03-04@85@31@8.4@661@M@2014@8.78
+366@2119@Driver: San Francisco@PlayStation 3@Racing@980000.0@Ubisoft@Ubisoft Reflections@2011-09-06@79@53@7.7@141@T@2011@8.01
+367@2122@Grand Theft Auto: San Andreas@PC@Action@980000.0@Rockstar Games@Rockstar North@2005-06-07@93@47@8.9@3488@M@2005@8.71
+368@2127@Brutal Legend@Xbox 360@Action@980000.0@EA Games@Double Fine Productions@2009-10-13@82@88@8.0@297@M@2009@8.36
+369@2130@Madden NFL 08@PlayStation 3@Sports@970000.0@EA Sports@EA Tiburon@2007-08-14@81@31@6.0@39@E@2007@7.86
+370@2133@Mass Effect 3@PC@Role-Playing@970000.0@Electronic Arts@BioWare@2012-03-06@89@23@6.0@6941@M@2012@8.44
+371@2134@NBA 2K10@Xbox 360@Sports@970000.0@2K Sports@Visual Concepts@2009-10-06@82@46@7.5@35@E@2009@8.05
+372@2170@The Witcher 2: Assassins of Kings@PC@Action@960000.0@Atari@CD Projekt Red Studio@2011-05-17@88@76@8.5@5887@M@2011@8.69
+373@2179@South Park: The Stick of Truth@Xbox 360@Role-Playing@950000.0@Ubisoft@Obsidian Entertainment@2014-03-04@82@33@8.4@407@M@2014@8.83
+374@2187@Brutal Legend@PlayStation 3@Action@950000.0@EA Games@Double Fine Productions@2009-10-13@83@61@7.6@190@M@2009@7.92
+375@2199@Star Fox 64 3D@3DS@Shooter@940000.0@Nintendo@Nintendo@2011-09-09@81@65@8.1@269@E10+@2011@8.32
+376@2204@Assassin's Creed III@PC@Action@940000.0@Ubisoft@Ubisoft@2012-11-20@80@21@6.4@2181@M@2012@7.74
+377@2208@Bayonetta@Xbox 360@Action@940000.0@Sega@PlatinumGames@2010-01-05@90@86@8.1@731@M@2010@8.86
+378@2212@NCAA Football 10@Xbox 360@Sports@940000.0@Electronic Arts@EA Tiburon@2009-07-14@83@26@6.7@38@E@2009@8.51
+379@2214@The Legend of Zelda: Twilight Princess HD@Wii U@Action@940000.0@Nintendo@Tantalus@2016-03-04@86@74@8.5@517@T@2016@9.08
+380@2226@Borderlands 2@PC@Shooter@930000.0@2K Games@Gearbox Software@2012-09-17@89@38@8.2@3326@M@2012@9.05
+381@2229@SSX@PlayStation 3@Sports@930000.0@EA Sports@EA Canada@2012-02-28@81@38@6.8@134@E@2012@8.38
+382@2250@NCAA Football 11@Xbox 360@Sports@920000.0@Electronic Arts@EA Tiburon@2010-07-13@86@29@7.2@71@E@2010@8.6
+383@2268@MLB 12: The Show@PlayStation 3@Sports@920000.0@SCEA@SCEA San Diego Studios@2012-03-06@87@23@7.9@72@E@2012@8.49
+384@2273@MLB 15: The Show@PlayStation 4@Sports@920000.0@SCEA@SCEA San Diego Studios@2015-03-31@80@44@7.7@199@E@2015@8.43
+385@2293@DJ Hero@PlayStation 3@Misc@910000.0@Activision@FreeStyleGames@2009-10-27@86@53@7.5@57@T@2009@8.06
+386@2294@Dragon Age: Inquisition@Xbox One@Role-Playing@910000.0@Electronic Arts@BioWare@2014-11-18@85@28@7.0@852@M@2014@8.63
+387@2311@Tiger Woods PGA Tour 12: The Masters@PlayStation 3@Sports@900000.0@Electronic Arts@Electronic Arts@2011-03-29@80@41@7.2@19@E@2011@8.23
+388@2318@Pure@PlayStation 3@Racing@900000.0@Disney Interactive Studios@Black Rock Studio@2008-09-23@83@43@7.6@36@E@2008@8.26
+389@2347@F1 2010@Xbox 360@Racing@890000.0@Codemasters@Codemasters Birmingham@2010-09-22@84@43@7.6@68@E@2010@8.68
+390@2349@Call of Duty: Modern Warfare 2@PC@Shooter@890000.0@Activision@Infinity Ward@2009-11-10@86@40@4.6@7122@M@2009@8.6
+391@2351@Kingdoms of Amalur: Reckoning@Xbox 360@Role-Playing@890000.0@Electronic Arts@Big Huge Games@2012-02-07@80@71@7.8@464@M@2012@8.22
+392@2358@Sleeping Dogs@Xbox 360@Action@880000.0@Square Enix@United Front Games@2012-08-14@80@47@8.0@509@M@2012@7.99
+393@2359@Grand Theft Auto IV@PC@Action@880000.0@Rockstar Games@Rockstar Toronto@2008-12-02@90@40@7.0@3188@M@2008@7.98
+394@2363@Rock Band 3@Xbox 360@Misc@880000.0@MTV Games@Harmonix Music Systems@2010-10-26@93@57@8.0@148@T@2010@8.77
+395@2364@Resident Evil: Revelations@3DS@Action@880000.0@Capcom@Capcom@2012-02-07@82@78@8.5@513@M@2012@8.83
+396@2372@Tekken Tag Tournament 2@PlayStation 3@Fighting@880000.0@Namco Bandai Games@Namco Bandai Games@2012-09-11@82@50@8.3@261@T@2012@8.52
+397@2379@NBA 2K14@Xbox One@Sports@870000.0@2K Sports@Visual Concepts@2013-11-12@86@15@5.7@185@E@2013@7.94
+398@2383@Red Faction: Guerrilla@Xbox 360@Shooter@870000.0@THQ@Volition Inc.@2009-06-02@85@84@8.0@252@M@2009@8.48
+399@2390@Kingdoms of Amalur: Reckoning@PlayStation 3@Role-Playing@870000.0@Electronic Arts@Big Huge Games@2012-02-07@81@34@7.7@394@M@2012@8.48
+400@2414@Darksiders II@PlayStation 3@Action@860000.0@THQ@Vigil Games@2012-08-14@84@39@7.2@465@M@2012@8.4
+401@2419@Dragon Quest VIII: Journey of the Cursed King@3DS@Role-Playing@860000.0@Square Enix@TOSE@2017-01-20@85@56@8.6@149@T@2017@8.9
+402@2426@2010 FIFA World Cup South Africa@Xbox 360@Sports@860000.0@EA Sports@Electronic Arts@2010-04-27@83@61@8.3@64@E@2010@8.34
+403@2428@Ninja Gaiden Sigma 2@PlayStation 3@Action@860000.0@Tecmo@Team Ninja@2009-09-29@83@52@7.8@156@M@2009@8.43
+404@2430@Skate 2@PlayStation 3@Sports@850000.0@EA Games@EA Black Box@2009-01-21@84@50@8.0@71@T@2009@8.18
+405@2435@NBA 2K8@Xbox 360@Sports@850000.0@2K Sports@Visual Concepts@2007-10-02@81@33@6.8@29@E@2007@7.81
+406@2446@Overwatch@Xbox One@Shooter@850000.0@Blizzard Entertainment@Blizzard Entertainment@2016-05-23@91@18@5.9@944@T@2016@8.06
+407@2450@Kirby: Planet Robobot@3DS@Action@850000.0@Nintendo@HAL Labs@2016-06-10@81@71@8.5@176@E@2016@8.86
+408@2460@NBA 2K10@PlayStation 3@Sports@840000.0@2K Sports@Visual Concepts@2009-10-06@83@30@7.8@40@E@2009@8.07
+409@2461@Xenoblade Chronicles X@Wii U@Role-Playing@840000.0@Nintendo@Monolith Soft@2015-12-04@84@87@9.1@1740@T@2015@9.04
+410@2464@NCAA Football 11@PlayStation 3@Sports@840000.0@Electronic Arts@EA Tiburon@2010-07-13@85@22@7.5@27@E@2010@8.41
+411@2465@Dragon Age II@PlayStation 3@Action@840000.0@Electronic Arts@BioWare@2011-03-08@82@52@4.4@1233@M@2011@8.03
+412@2469@Street Fighter X Tekken@PlayStation 3@Fighting@840000.0@Capcom@Capcom@2012-03-06@84@51@5.5@211@T@2012@8.13
+413@2491@Dance Central 3@Xbox 360@Misc@830000.0@Microsoft Game Studios@Harmonix Music Systems@2012-10-16@86@43@7.9@51@T@2012@8.5
+414@2495@NCAA Football 12@PlayStation 3@Sports@830000.0@EA Sports@EA Sports@2011-07-12@82@17@5.8@41@E@2011@8.23
+415@2498@Sid Meier's Civilization Revolution@Xbox 360@Strategy@830000.0@2K Games@Firaxis Games@2008-07-08@84@55@8.0@188@E10+@2008@8.43
+416@2507@Madden NFL 17@Xbox One@Sports@820000.0@EA Sports@EA Sports@2016-08-23@83@30@5.3@61@E@2016@8.13
+417@2512@DJ Hero 2@Xbox 360@Misc@820000.0@Activision@FreeStyleGames@2010-10-19@86@66@8.4@24@T@2010@8.34
+418@2520@DmC: Devil May Cry@PlayStation 3@Action@820000.0@Capcom@Ninja Theory@2013-01-15@85@40@5.6@1626@M@2013@8.45
+419@2544@Guitar Hero Live@PlayStation 4@Misc@810000.0@Activision@FreeStyleGames@2015-10-20@80@69@6.2@193@T@2015@7.82
+420@2557@NCAA Football 10@PlayStation 3@Sports@810000.0@Electronic Arts@EA Tiburon@2009-07-14@80@20@6.9@14@E@2009@8.19
+421@2562@Guitar Hero: Metallica@Xbox 360@Misc@810000.0@Activision@Neversoft Entertainment@2009-03-29@84@62@8.1@88@T@2009@8.29
+422@2565@Fight Night Champion@Xbox 360@Fighting@800000.0@EA Sports@EA Canada@2011-03-01@86@59@7.4@125@M@2011@8.07
+423@2584@Darksiders II@Xbox 360@Action@800000.0@THQ@Vigil Games@2012-08-14@83@63@8.2@509@M@2012@8.33
+424@2601@Rayman Origins@Xbox 360@Platform@790000.0@Ubisoft@UBlart Montpellier@2011-11-15@87@55@8.2@246@E10+@2011@8.61
+425@2609@Tiger Woods PGA Tour 10@PlayStation 3@Sports@790000.0@Electronic Arts@EA Tiburon@2009-06-08@81@38@7.4@12@E@2009@8.06
+426@2623@Sid Meier's Civilization Revolution@PlayStation 3@Strategy@790000.0@2K Games@Firaxis Games@2008-07-08@85@39@8.0@92@E10+@2008@8.22
+427@2629@Professor Layton and the Azran Legacy@3DS@Puzzle@780000.0@Nintendo@Level 5@2014-02-28@81@58@8.1@106@E10+@2014@8.73
+428@2645@Pro Evolution Soccer 2016@PlayStation 4@Sports@780000.0@Konami@Konami@2015-09-15@87@54@7.2@719@E@2015@8.17
+429@2661@Perfect Dark Zero@Xbox 360@Shooter@770000.0@Microsoft Game Studios@Rare Ltd.@2005-11-17@81@75@7.2@260@M@2005@7.0
+430@2697@Mortal Kombat@PlayStation Vita@Fighting@760000.0@Warner Bros. Interactive Entertainment@NetherRealm Studios@2012-05-01@85@51@7.9@222@M@2012@8.67
+431@2700@SoulCalibur V@PlayStation 3@Fighting@760000.0@Namco Bandai Games@Project Soul@2012-01-31@81@53@6.6@190@T@2012@7.91
+432@2701@Portal 2@PC@Shooter@760000.0@Valve Software@Valve Software@2011-04-18@95@52@9.1@8191@E10+@2011@9.47
+433@2703@Pro Evolution Soccer 2015@PlayStation 4@Sports@760000.0@Konami@Konami@2014-11-11@82@56@7.1@408@E@2014@8.03
+434@2714@Assassin's Creed: Revelations@PC@Action@760000.0@Ubisoft@Ubisoft Montreal@2011-11-29@80@20@7.5@1260@M@2011@8.22
+435@2722@Dark Souls II@Xbox 360@Role-Playing@760000.0@Namco Bandai Games@From Software@2014-03-11@91@30@7.9@1092@T@2014@8.59
+436@2737@Tearaway@PlayStation Vita@Adventure@750000.0@SCEA@Media Molecule@2013-11-22@87@82@8.9@459@E@2013@9.04
+437@2738@DJ Hero 2@PlayStation 3@Misc@750000.0@Activision@FreeStyleGames@2010-10-19@86@46@7.9@27@T@2010@8.23
+438@2747@Red Faction: Guerrilla@PlayStation 3@Shooter@750000.0@THQ@Volition Inc.@2009-06-02@85@56@8.0@155@M@2009@8.43
+439@2770@Final Fantasy XIII-2@Xbox 360@Role-Playing@740000.0@Square Enix@Square Enix@2012-01-31@79@50@6.4@300@T@2012@8.08
+440@2776@LEGO Marvel Super Heroes@Wii U@Action@740000.0@Warner Bros. Interactive Entertainment@TT Games@2013-10-22@82@8@8.0@80@E10+@2013@8.29
+441@2777@Blur@PlayStation 3@Racing@740000.0@Activision@Bizarre Creations@2010-05-25@81@58@8.1@108@E10+@2010@7.99
+442@2781@Crysis 2@PC@Action@740000.0@EA Games@Crytek@2011-03-22@86@42@6.9@1961@M@2011@8.2
+443@2802@F1 2011@Xbox 360@Racing@730000.0@Codemasters@Codemasters@2011-09-20@84@61@7.2@59@E@2011@8.18
+444@2809@NHL 11@Xbox 360@Sports@730000.0@Electronic Arts@Electronic Arts@2010-09-07@88@49@7.7@73@E10+@2010@8.65
+445@2810@Dragon Age: Inquisition@PC@Role-Playing@730000.0@Electronic Arts@BioWare@2014-11-18@85@45@6.0@4603@M@2014@7.89
+446@2812@DiRT 3@Xbox 360@Racing@730000.0@Codemasters@Codemasters@2011-05-24@87@81@7.1@175@T@2011@8.28
+447@2823@SSX@Xbox 360@Sports@720000.0@EA Sports@EA Canada@2012-02-28@82@65@6.4@193@E@2012@8.15
+448@2826@XCOM: Enemy Unknown@PC@Strategy@720000.0@2K Games@Firaxis Games@2012-10-08@89@57@8.2@2524@M@2012@9.04
+449@2843@Terraria@Xbox 360@Action@720000.0@505 Games@Engine Software@2013-03-27@81@39@7.2@151@T@2013@8.41
+450@2848@Skate@Xbox 360@Sports@720000.0@EA Games@EA Black Box@2007-09-14@86@59@8.4@147@T@2007@8.0
+451@2850@Driver: San Francisco@Xbox 360@Racing@720000.0@Ubisoft@Ubisoft Reflections@2011-09-06@80@63@7.7@144@T@2011@7.97
+452@2851@MLB 09: The Show@PlayStation 3@Sports@720000.0@SCEA@SCEA San Diego Studios@2009-03-03@90@27@8.1@61@E@2009@8.43
+453@2854@Catherine@PlayStation 3@Adventure@720000.0@Atlus@Atlus@2011-07-26@79@61@8.3@497@M@2011@8.42
+454@2857@Crysis@PC@Shooter@720000.0@EA Games@Crytek@2007-11-13@91@56@8.1@2623@M@2007@8.36
+455@2858@Battlefield: Bad Company 2@PC@Shooter@710000.0@EA Games@EA DICE@2010-03-02@87@46@8.2@1791@M@2010@8.48
+456@2862@MLB 13: The Show@PlayStation 3@Sports@710000.0@SCEA@SCEA San Diego Studios@2013-03-05@87@36@7.9@118@E@2013@8.75
+457@2866@Top Spin 4@PlayStation 3@Sports@710000.0@2K Sports@2K Czech@2011-03-15@82@37@8.1@65@E@2011@8.39
+458@2870@Persona Q: Shadow of the Labyrinth@3DS@Role-Playing@710000.0@Atlus@Atlus@2014-11-25@83@56@5.8@414@M@2014@8.79
+459@2880@MLB 10: The Show@PlayStation 3@Sports@710000.0@SCEA@SCEA@2010-03-02@91@33@8.2@113@E@2010@8.33
+460@2891@Football Manager 2014@PC@Sports@710000.0@Sega@Sports Interactive@2013-10-30@85@41@5.7@294@E@2013@8.32
+461@2896@Metal Gear Solid V: The Phantom Pain@Xbox One@Action@710000.0@Konami@Kojima Productions@2015-09-01@95@10@7.5@1236@M@2015@8.93
+462@2899@NCAA Football 09@Xbox 360@Sports@710000.0@Electronic Arts@EA Tiburon@2008-07-15@83@24@7.7@26@E@2008@8.09
+463@2905@NHL 12@Xbox 360@Sports@700000.0@Electronic Arts@Electronic Arts@2011-09-13@86@56@7.1@76@E10+@2011@8.39
+464@2912@NCAA Football 08@Xbox 360@Sports@700000.0@EA Sports@EA Sports@2007-07-17@81@30@7.8@46@E@2007@7.93
+465@2930@IL-2 Sturmovik: Birds of Prey@PlayStation 3@Simulation@700000.0@1C@Gaijin Entertainment@2009-09-08@81@28@7.4@23@T@2009@8.08
+466@2938@MLB 08: The Show@PlayStation 3@Sports@700000.0@SCEA@SCEA San Diego Studios@2008-03-04@85@33@8.7@76@E@2008@8.27
+467@2963@Assassin's Creed IV: Black Flag@PC@Action@690000.0@Ubisoft@Ubisoft@2013-11-19@84@10@7.9@2290@M@2013@8.51
+468@2985@Rayman Legends@Wii U@Platform@680000.0@Ubisoft@Ubisoft Montpellier@2013-09-03@92@35@8.8@550@E10+@2013@9.27
+469@3003@Mass Effect@PC@Role-Playing@680000.0@Electronic Arts@BioWare@2008-05-28@89@45@8.6@3619@M@2008@8.91
+470@3009@Unreal Tournament III@PlayStation 3@Shooter@670000.0@Midway@Epic Games@2007-12-11@86@42@7.7@133@M@2007@8.13
+471@3014@The Darkness@PlayStation 3@Shooter@670000.0@2K Games@Starbreeze@2007-06-25@80@35@7.7@131@M@2007@7.87
+472@3028@The Witcher 3: Wild Hunt@PC@Role-Playing@670000.0@Warner Bros. Interactive Entertainment@CD Projekt Red Studio@2015-05-18@93@32@9.4@19759@M@2015@9.4
+473@3035@Castlevania: Lords of Shadow@Xbox 360@Action@670000.0@Konami@Mercury Steam@2010-10-05@83@70@7.9@280@M@2010@8.47
+474@3042@Command & Conquer: Red Alert 3@PC@Strategy@670000.0@Electronic Arts@EA LA@2008-10-28@82@55@6.9@560@T@2008@8.04
+475@3048@NHL 13@Xbox 360@Sports@670000.0@Electronic Arts@Electronic Arts@2012-09-11@83@44@6.5@88@E10+@2012@8.22
+476@3065@NHL 10@Xbox 360@Sports@660000.0@EA Sports@EA Canada@2009-09-15@88@52@8.3@73@E10+@2009@8.38
+477@3071@Rayman Legends@PlayStation 3@Platform@660000.0@Ubisoft@Ubisoft Montpellier@2013-09-03@91@23@8.7@370@E10+@2013@8.96
+478@3075@Napoleon: Total War@PC@Strategy@660000.0@Sega@Creative Assembly@2010-02-23@81@56@7.9@598@T@2010@8.62
+479@3097@NHL 13@PlayStation 3@Sports@650000.0@Electronic Arts@Electronic Arts@2012-09-11@84@22@6.8@67@E10+@2012@7.76
+480@3100@The Evil Within@Xbox One@Action@650000.0@Bethesda Softworks@Tango Gameworks@2014-10-14@79@24@7.5@555@M@2014@8.1
+481@3113@MLB 14: The Show@PlayStation 4@Sports@650000.0@SCEA@SCEA San Diego Studios@2014-05-06@83@17@7.6@213@E@2014@8.45
+482@3114@Tiger Woods PGA Tour 10@Xbox 360@Sports@650000.0@Electronic Arts@EA Tiburon@2009-06-08@80@51@6.9@20@E@2009@8.01
+483@3147@NBA 2K17@Xbox One@Sports@640000.0@2K Games@Visual Concepts@2016-09-16@90@17@6.0@138@E@2016@7.71
+484@3149@XCOM: Enemy Unknown@Xbox 360@Strategy@640000.0@2K Games@Firaxis Games@2012-10-09@90@35@8.3@397@M@2012@8.82
+485@3156@Dragon Age II@PC@Action@640000.0@Electronic Arts@BioWare@2011-03-08@82@45@4.6@4931@M@2011@7.3
+486@3157@LEGO Star Wars II: The Original Trilogy@Xbox 360@Action@640000.0@LucasArts@Traveller's Tales@2006-09-12@81@50@8.0@58@E10+@2006@7.86
+487@3169@Gravity Rush@PlayStation Vita@Action@640000.0@SCEA@SCE Japan Studio@2012-06-12@83@73@8.5@719@T@2012@8.7
+488@3201@Guitar Hero: Metallica@PlayStation 3@Misc@630000.0@Activision@Neversoft Entertainment@2009-03-29@86@44@8.2@57@T@2009@8.3
+489@3209@Condemned 2: Bloodshot@Xbox 360@Action@630000.0@Sega@Monolith Productions@2008-03-11@80@76@8.4@200@M@2008@7.76
+490@3224@Sonic & All-Stars Racing Transformed@Xbox 360@Racing@630000.0@Sega@Sumo Digital@2012-11-18@82@38@8.3@131@E10+@2012@8.11
+491@3229@Tiger Woods PGA Tour 12: The Masters@Xbox 360@Sports@630000.0@Electronic Arts@Electronic Arts@2011-03-29@80@50@6.1@27@E@2011@7.59
+492@3244@Vanquish@PlayStation 3@Shooter@620000.0@Sega@PlatinumGames@2010-10-19@84@61@9.1@829@M@2010@8.48
+493@3249@Far Cry 4@PC@Shooter@620000.0@Ubisoft@Ubisoft Montreal@2014-11-17@80@17@6.9@1633@M@2014@8.09
+494@3286@NBA 2K9@PlayStation 3@Sports@610000.0@2K Sports@Visual Concepts@2008-10-07@82@30@7.1@38@E@2008@8.22
+495@3370@XCOM: Enemy Unknown@PlayStation 3@Strategy@600000.0@2K Games@Firaxis Games@2012-10-09@89@20@8.3@323@M@2012@8.51
+496@3371@Blur@Xbox 360@Racing@600000.0@Activision@Bizarre Creations@2010-05-25@82@78@8.3@193@E10+@2010@8.09
+497@3375@NHL 11@PlayStation 3@Sports@600000.0@Electronic Arts@Electronic Arts@2010-09-07@88@38@7.2@55@E10+@2010@8.29
+498@3386@Rayman Origins@PlayStation Vita@Platform@590000.0@Ubisoft@UBlart Montpellier@2012-02-15@88@54@8.4@328@E10+@2012@8.84
+499@3392@Assassin's Creed: Brotherhood@PC@Action@590000.0@Ubisoft@Ubisoft Montreal@2011-03-22@88@24@8.3@1751@M@2011@8.6
+500@3400@Total War: Shogun 2@PC@Strategy@590000.0@Sega@Creative Assembly@2011-03-15@90@62@8.4@1379@T@2011@8.9
+501@3403@Yakuza 5@PlayStation 3@Action@590000.0@Sega@Ryu ga Gotoku Studios@2015-12-08@83@34@8.6@267@M@2015@8.78
+502@3406@Naruto: The Broken Bond@Xbox 360@Action@590000.0@Ubisoft@Ubisoft Montreal@2008-11-08@80@34@8.0@58@T@2008@7.84
+503@3420@NHL 12@PlayStation 3@Sports@590000.0@Electronic Arts@Electronic Arts@2011-09-13@86@33@7.5@58@E10+@2011@8.27
+504@3432@Deus Ex: Human Revolution@PC@Shooter@590000.0@Eidos Interactive@Nixxes Software@2011-08-23@90@52@8.5@3689@M@2011@8.43
+505@3459@Titanfall@PC@Shooter@580000.0@Electronic Arts@Respawn Entertainment@2014-03-11@86@29@6.3@1772@M@2014@7.91
+506@3460@NCAA Football 09@PlayStation 3@Sports@580000.0@Electronic Arts@EA Tiburon@2008-07-15@81@20@7.2@26@E@2008@7.85
+507@3484@NBA 2K7@Xbox 360@Sports@580000.0@2K Sports@Kush Games@2006-09-25@84@46@7.8@68@E@2006@7.72
+508@3488@Rock Band 3@PlayStation 3@Misc@580000.0@MTV Games@Harmonix Music Systems@2010-10-26@91@34@8.1@101@T@2010@8.78
+509@3489@Disgaea 4: A Promise Unforgotten@PlayStation 3@Role-Playing@580000.0@NIS America@Nippon Ichi Software@2011-09-06@80@39@8.7@112@T@2011@8.32
+510@3490@BlazBlue: Calamity Trigger@PlayStation 3@Fighting@580000.0@Aksys Games@Arc System Works@2009-06-30@87@50@8.5@119@T@2009@8.27
+511@3493@MLB 11: The Show@PlayStation 3@Sports@580000.0@SCEA@SCEA San Diego Studios@2011-03-08@90@30@8.0@87@E@2011@8.45
+512@3496@NHL 10@PlayStation 3@Sports@580000.0@EA Sports@EA Canada@2009-09-15@88@35@8.1@44@E10+@2009@8.31
+513@3506@Shin Megami Tensei IV@3DS@Role-Playing@570000.0@Atlus@Atlus@2013-07-16@83@48@6.8@538@M@2013@8.9
+514@3520@Enslaved: Odyssey to the West@PlayStation 3@Action@570000.0@Namco Bandai Games@Ninja Theory@2010-10-05@80@53@7.6@365@T@2010@7.98
+515@3528@Assassin's Creed II@PC@Action@570000.0@Ubisoft@Ubisoft Montreal@2010-03-09@86@22@7.4@2398@M@2010@8.37
+516@3541@Skylanders: Spyro's Adventure@3DS@Action@570000.0@Activision@Vicarious Visions@2011-10-16@82@8@5.1@75@E10+@2011@8.14
+517@3555@NHL 14@PlayStation 3@Sports@570000.0@Electronic Arts@Electronic Arts@2013-09-10@80@22@6.1@83@E10+@2013@8.29
+518@3660@NBA 2K8@PlayStation 3@Sports@550000.0@2K Sports@Visual Concepts@2007-10-02@81@18@6.6@20@E@2007@8.04
+519@3675@Enslaved: Odyssey to the West@Xbox 360@Action@550000.0@Namco Bandai Games@Ninja Theory@2010-10-05@82@72@7.8@337@T@2010@8.13
+520@3693@NBA Live 10@PlayStation 3@Sports@540000.0@EA Sports@EA Canada@2009-10-06@81@32@7.5@26@E@2009@7.88
+521@3705@Sonic & All-Stars Racing Transformed@PlayStation 3@Racing@540000.0@Sega@Sumo Digital@2012-11-18@82@24@8.3@129@E10+@2012@8.51
+522@3729@NHL 14@Xbox 360@Sports@540000.0@Electronic Arts@Electronic Arts@2013-09-10@81@30@6.1@98@E10+@2013@8.44
+523@3765@Dragon's Crown@PlayStation 3@Role-Playing@530000.0@Atlus@Vanillaware@2013-08-06@82@62@8.4@316@T@2013@8.6
+524@3791@Batman: Arkham City@PC@Action@530000.0@Warner Bros. Interactive Entertainment@Rocksteady Studios@2011-11-21@91@27@8.7@2627@T@2011@9.05
+525@3803@Bulletstorm@PlayStation 3@Shooter@530000.0@Electronic Arts@Epic Games@2011-02-22@83@57@7.7@313@M@2011@8.26
+526@3851@IL-2 Sturmovik: Birds of Prey@Xbox 360@Simulation@520000.0@1C@Gaijin Entertainment@2009-09-08@80@43@8.1@22@T@2009@7.69
+527@3880@Dragon Age: Origins@PC@Role-Playing@510000.0@Electronic Arts@BioWare@2009-11-03@91@67@8.8@4547@M@2009@8.83
+528@3938@Dishonored@PC@Action@510000.0@Bethesda Softworks@Arkane Studios@2012-10-08@91@29@8.5@4626@M@2012@9.2
+529@3944@Guitar Hero Live@Xbox One@Misc@510000.0@Activision@FreeStyleGames@2015-10-20@81@21@5.0@77@T@2015@7.13
+530@3950@F1 2012@Xbox 360@Racing@500000.0@Codemasters@Codemasters@2012-09-18@84@42@6.8@60@E@2012@8.1
+531@3951@NHL 09@Xbox 360@Sports@500000.0@Electronic Arts@EA Canada@2008-09-09@88@41@8.3@63@E10+@2008@8.59
+532@3994@Metal Gear Rising: Revengeance@Xbox 360@Action@500000.0@Konami@PlatinumGames@2013-02-19@82@46@8.0@441@M@2013@8.44
+533@4053@Terraria@PlayStation 3@Action@490000.0@505 Games@Engine Software@2013-03-26@81@12@8.1@79@T@2013@8.53
+534@4078@Far Cry 2@PC@Action@490000.0@Ubisoft@Ubisoft Montreal@2008-10-21@85@34@6.0@1715@M@2008@7.88
+535@4124@Football Manager 2015@PC@Simulation@480000.0@SegaSoft@Sports Interactive@2014-11-07@80@36@6.2@173@unknown@2014@8.01
+536@4152@Bravely Second: End Layer@3DS@Role-Playing@470000.0@Square Enix@Silicon Studio@2016-04-15@81@70@8.1@201@T@2016@8.74
+537@4155@Unreal Tournament III@Xbox 360@Shooter@470000.0@Midway@Epic Games@2008-07-07@82@47@7.5@100@M@2008@8.02
+538@4157@Street Fighter X Tekken@Xbox 360@Fighting@470000.0@Capcom@Capcom@2012-03-06@83@45@4.5@185@T@2012@8.0
+539@4182@Warhammer 40,000: Dawn of War II@PC@Strategy@470000.0@THQ@Relic@2009-02-18@85@67@8.1@1592@M@2009@8.46
+540@4195@Dead or Alive 4@Xbox 360@Fighting@470000.0@Tecmo@Team Ninja@2005-12-29@85@76@8.1@249@M@2005@8.05
+541@4202@NHL 16@Xbox One@Sports@470000.0@Electronic Arts@EA Sports@2015-09-15@80@18@6.0@86@E10+@2015@8.06
+542@4246@Wolfenstein: The New Order@PC@Shooter@460000.0@Bethesda Softworks@MachineGames@2014-05-19@81@23@8.2@2161@M@2014@8.35
+543@4297@Rayman Legends@Xbox 360@Platform@460000.0@Ubisoft@Ubisoft Montpellier@2013-09-03@90@35@8.2@256@E10+@2013@8.98
+544@4368@Eternal Sonata@PlayStation 3@Role-Playing@450000.0@Namco Bandai Games America@Tri-Crescendo@2008-10-21@80@34@7.9@135@T@2008@8.16
+545@4387@NBA Live 10@Xbox 360@Sports@450000.0@EA Sports@EA Canada@2009-10-06@80@40@7.7@40@E@2009@7.79
+546@4426@Transformers: Fall of Cybertron@Xbox 360@Action@440000.0@Activision@High Moon Studios@2012-08-21@79@52@8.5@183@T@2012@8.12
+547@4427@Metro: Last Light@PlayStation 3@Action@440000.0@Square Enix@4A Games@2013-05-14@80@23@8.1@550@unknown@2013@8.54
+548@4431@DmC: Devil May Cry@Xbox 360@Action@440000.0@Capcom@Ninja Theory@2013-01-15@86@65@5.4@1495@M@2013@8.34
+549@4444@Child of Eden@Xbox 360@Shooter@440000.0@Ubisoft@Q Entertainment@2011-06-14@84@81@7.9@95@E10+@2011@8.05
+550@4448@The Darkness@Xbox 360@Shooter@440000.0@2K Games@Starbreeze@2007-06-25@82@63@8.1@233@M@2007@8.05
+551@4507@Trials Fusion@PlayStation 4@Racing@430000.0@Ubisoft@RedLynx@2014-04-15@79@51@7.1@300@E10+@2014@8.15
+552@4511@Overwatch@PC@Shooter@430000.0@Blizzard Entertainment@Blizzard Entertainment@2016-05-23@91@64@6.5@6136@T@2016@8.47
+553@4512@Rock Band 4@Xbox One@Misc@430000.0@Harmonix Music Systems@Harmonix Music Systems@2015-10-06@79@27@6.5@58@T@2015@7.91
+554@4532@Command & Conquer 3: Tiberium Wars@Xbox 360@Strategy@430000.0@EA Games@EA LA@2007-05-08@82@40@7.4@61@T@2007@8.13
+555@4535@Max Payne 3@PC@Shooter@430000.0@Rockstar Games@Rockstar Games@2012-05-31@87@30@7.8@2816@M@2012@8.25
+556@4556@Call of Duty: Black Ops II@Wii U@Shooter@430000.0@Activision@Treyarch@2012-11-18@81@31@6.9@250@M@2012@8.28
+557@4589@Top Spin 4@Xbox 360@Sports@420000.0@2K Sports@2K Czech@2011-03-15@84@54@8.3@83@E@2011@8.3
+558@4610@Vanquish@Xbox 360@Shooter@420000.0@Sega@PlatinumGames@2010-10-19@84@70@9.2@833@M@2010@8.35
+559@4644@Condemned: Criminal Origins@Xbox 360@Action@420000.0@Sega@Monolith Productions@2005-11-16@81@72@8.2@171@M@2005@7.73
+560@4710@BlazBlue: Continuum Shift@PlayStation 3@Fighting@410000.0@Aksys Games@Arc System Works@2010-07-27@87@29@8.1@69@T@2010@8.33
+561@4775@FIFA Soccer 13@PC@Action@410000.0@EA Sports@Electronic Arts@2012-09-25@86@7@6.6@326@E@2012@7.79
+562@4788@Hatsune Miku: Project Diva F 2nd@PlayStation Vita@Misc@400000.0@Sega@Sega@2014-11-18@81@8@8.6@78@T@2014@8.62
+563@4859@Condemned 2: Bloodshot@PlayStation 3@Action@400000.0@Sega@Monolith Productions@2008-03-18@82@37@8.0@107@M@2008@7.96
+564@4869@Mass Effect 2@PC@Role-Playing@400000.0@Electronic Arts@BioWare@2010-01-26@94@55@8.9@5254@M@2010@9.22
+565@4875@Hitman: Blood Money@Xbox 360@Action@400000.0@Eidos Interactive@Io Interactive@2006-05-30@82@53@8.6@129@M@2006@8.09
+566@4908@The Darkness II@Xbox 360@Shooter@390000.0@2K Games@Digital Extremes@2012-02-07@80@71@7.6@258@M@2012@8.1
+567@4921@Wipeout 2048@PlayStation Vita@Racing@390000.0@SCEA@Studio Liverpool@2012-02-15@79@63@8.2@210@E10+@2012@8.22
+568@4928@Age of Empires III@PC@Strategy@390000.0@Microsoft Game Studios@Ensemble Studios@2005-10-18@81@52@7.8@695@T@2005@8.45
+569@4944@Skylanders Giants@Wii U@Action@390000.0@Activision@Vicarious Visions@2012-11-18@80@8@6.2@29@E10+@2012@7.49
+570@4961@MLB 14: The Show@PlayStation 3@Sports@390000.0@SCEA@SCEA San Diego Studios@2014-04-01@81@26@6.7@77@E@2014@8.37
+571@5010@Skate@PlayStation 3@Sports@380000.0@EA Games@EA Black Box@2007-09-24@85@31@8.1@71@T@2007@8.1
+572@5017@Forza Horizon 3@Xbox One@Racing@380000.0@Microsoft Game Studios@Playground Games@2016-09-23@91@91@8.0@1193@E@2016@8.78
+573@5023@Phoenix Wright: Ace Attorney - Dual Destinies@3DS@Adventure@380000.0@Capcom@Capcom@2013-10-24@81@63@8.1@244@M@2013@8.8
+574@5031@NBA 2K7@PlayStation 3@Sports@380000.0@2K Sports@Visual Concepts@2006-11-13@80@20@7.7@9@E@2006@7.95
+575@5059@Saints Row: The Third@PC@Action@380000.0@THQ@Volition Inc.@2011-11-14@84@22@8.1@1576@M@2011@8.72
+576@5073@Need for Speed: Hot Pursuit@PC@Racing@380000.0@Electronic Arts@Criterion Games@2010-11-16@86@14@6.9@779@E10+@2010@8.07
+577@5098@Life is Strange@PlayStation 4@Adventure@370000.0@Square Enix@DONTNOD Entertainment@2015-10-20@85@23@8.6@1910@M@2015@8.55
+578@5147@Theatrhythm Final Fantasy: Curtain Call@3DS@Misc@370000.0@Square Enix@indieszero@2014-09-16@83@52@8.2@224@T@2014@8.55
+579@5152@Sid Meier's Civilization: Beyond Earth@PC@Strategy@370000.0@2K Games@Firaxis Games@2014-10-23@81@78@5.5@1070@E10+@2014@6.88
+580@5160@Left 4 Dead 2@PC@Shooter@370000.0@Electronic Arts@Valve Software@2009-11-16@89@55@8.4@3219@M@2009@9.14
+581@5184@Metro: Last Light@Xbox 360@Action@360000.0@Square Enix@4A Games@2013-05-14@80@20@8.3@495@unknown@2013@8.7
+582@5190@BlazBlue: Calamity Trigger@Xbox 360@Fighting@360000.0@Aksys Games@Arc System Works@2009-06-30@86@51@8.5@74@T@2009@8.25
+583@5201@Assassin's Creed III@Wii U@Action@360000.0@Ubisoft@Ubisoft Quebec@2012-11-18@85@26@7.2@259@M@2012@8.43
+584@5244@Company of Heroes 2@PC@Strategy@360000.0@Sega@Relic@2013-06-25@80@82@2.2@5819@M@2013@7.96
+585@5251@EA Sports MMA@Xbox 360@Fighting@360000.0@EA Sports@EA Tiburon@2010-10-19@79@63@8.0@52@T@2010@7.26
+586@5270@Dark Souls III@Xbox One@Role-Playing@350000.0@Bandai Namco Games@From Software@2016-04-12@87@14@8.8@804@M@2016@8.91
+587@5283@Tekken Tag Tournament 2@Xbox 360@Fighting@350000.0@Namco Bandai Games@Namco Bandai Games@2012-09-11@83@35@7.7@106@T@2012@8.26
+588@5366@F.E.A.R.@Xbox 360@Shooter@340000.0@Vivendi Games@Day 1 Studios@2006-10-31@85@44@7.5@151@M@2006@8.19
+589@5386@Kameo: Elements of Power@Xbox 360@Action@340000.0@Microsoft Game Studios@Rare Ltd.@2005-11-07@79@76@7.9@134@T@2005@7.5
+590@5420@NHL 09@PlayStation 3@Sports@340000.0@Electronic Arts@EA Canada@2008-09-09@88@25@7.8@42@E10+@2008@8.34
+591@5428@Persona 5@PlayStation 4@Role-Playing@340000.0@Atlus@Atlus@2017-04-04@93@98@8.7@5130@M@2017@9.44
+592@5450@The King of Fighters XIII@Xbox 360@Fighting@330000.0@Atlus@SNK Playmore@2011-11-22@79@31@8.2@58@T@2011@8.24
+593@5467@Ultimate Marvel vs. Capcom 3@PlayStation Vita@Fighting@330000.0@Capcom@Capcom@2012-02-15@80@48@7.8@102@T@2012@8.16
+594@5501@Deus Ex: Mankind Divided@PlayStation 4@Role-Playing@330000.0@Square Enix@Eidos Montreal@2016-08-23@84@59@7.6@1026@M@2016@8.31
+595@5550@Eternal Sonata@Xbox 360@Role-Playing@330000.0@Namco Bandai Games America@Tri-Crescendo@2007-09-17@79@56@8.0@111@T@2007@8.0
+596@5575@Dead Space 2@PC@Shooter@330000.0@Electronic Arts@Visceral Games@2011-01-25@87@28@8.4@1336@M@2011@8.79
+597@5580@The Witcher: Enhanced Edition@PC@Role-Playing@320000.0@Atari@CD Projekt Red Studio@2008-09-16@86@30@8.5@2853@M@2008@8.47
+598@5588@Test Drive Unlimited@Xbox 360@Racing@320000.0@Atari@Eden Studios@2006-09-05@82@69@8.1@99@E10+@2006@8.15
+599@5608@Batman: Arkham Asylum@PC@Action@320000.0@Eidos Interactive@Rocksteady Studios@2009-09-15@91@29@8.6@2580@T@2009@9.0
+600@5635@DiRT Rally@PlayStation 4@Racing@320000.0@Codemasters@Codemasters@2016-04-05@85@46@7.9@295@E@2016@8.46
+601@5687@Catherine@Xbox 360@Adventure@320000.0@Atlus@Atlus@2011-07-26@82@39@8.1@192@M@2011@8.28
+602@5688@BlazBlue: Continuum Shift@Xbox 360@Fighting@320000.0@Aksys Games@Arc System Works@2010-07-27@85@32@8.7@27@T@2010@8.36
+603@5727@Hatsune Miku: Project Mirai DX@3DS@Misc@310000.0@Sega@Sega@2015-09-08@80@32@8.2@97@E10+@2015@8.52
+604@5743@Pro Evolution Soccer 2013@Xbox 360@Sports@310000.0@Konami@Konami@2012-09-25@82@33@7.1@87@E@2012@7.96
+605@5761@Football Manager 2016@PC@Simulation@310000.0@Sports Interactive@Sega@2015-11-13@81@34@7.0@128@E@2015@6.96
+606@5788@Kingdoms of Amalur: Reckoning@PC@Role-Playing@310000.0@Electronic Arts@Big Huge Games@2012-02-07@81@25@6.7@1193@M@2012@8.29
+607@5871@The Sims 2@PC@Simulation@300000.0@EA Games@Maxis@2004-09-14@90@61@8.7@941@T@2004@8.31
+608@5913@FIFA 15@PC@Sports@300000.0@Electronic Arts@EA Sports@2014-09-23@82@9@4.5@445@E@2014@7.31
+609@5969@The Chronicles of Riddick: Assault on Dark Athena@Xbox 360@Shooter@290000.0@Atari@Starbreeze@2009-04-07@82@67@8.1@82@M@2009@7.89
+610@5973@Soul Sacrifice Delta@PlayStation Vita@Action@290000.0@SCEA@SCE Japan Studio@2014-05-13@82@24@8.5@148@M@2014@8.7
+611@6021@Ys: Memories of Celceta@PlayStation Vita@Action@290000.0@XSEED Games@Falcom@2013-11-26@82@56@8.7@283@T@2013@8.7
+612@6034@World of Tanks@PC@Shooter@290000.0@Wargaming.net@Wargaming.net@2011-04-12@80@38@3.4@1964@T@2011@7.74
+613@6075@BlazBlue: Chrono Phantasma@PlayStation 3@Fighting@290000.0@Aksys Games@Arc System Works@2014-03-25@83@16@8.2@67@T@2014@8.6
+614@6138@Pro Evolution Soccer 2017@PlayStation 4@Sports@280000.0@Konami@Konami@2016-09-13@85@62@7.3@614@E@2016@8.59
+615@6159@Naruto Shippuden: Ultimate Ninja Storm 4@Xbox One@Fighting@280000.0@Bandai Namco Games@CyberConnect2@2016-02-09@80@12@8.3@95@T@2016@8.66
+616@6188@Virtua Fighter 5 Online@Xbox 360@Fighting@280000.0@Sega@Sega AM2@2007-10-30@89@36@7.8@69@T@2007@8.23
+617@6241@Puppeteer@PlayStation 3@Platform@280000.0@SCEA@SCE Japan Studio@2013-09-10@80@75@8.4@274@E10+@2013@8.86
+618@6327@Disgaea 5: Alliance of Vengeance@PlayStation 4@Role-Playing@270000.0@NIS America@Nippon Ichi Software@2015-10-06@80@43@8.2@207@T@2015@8.65
+619@6461@Danganronpa 2: Goodbye Despair@PlayStation Vita@Misc@260000.0@NIS America@Spike Chunsoft@2014-09-02@81@50@8.8@246@M@2014@8.69
+620@6495@Lumines: Electronic Symphony@PlayStation Vita@Misc@260000.0@Ubisoft@Q Entertainment@2012-02-15@83@65@7.9@90@E@2012@8.37
+621@6507@The Elder Scrolls IV: Oblivion@PC@Role-Playing@260000.0@2K Games@Bethesda Softworks@2006-03-20@94@54@8.2@3219@M@2006@8.98
+622@6514@Plants vs. Zombies@Xbox 360@Strategy@260000.0@PopCap@PopCap@2010-09-08@89@27@8.4@179@E10+@2010@8.47
+623@6518@Etrian Odyssey Untold: The Millennium Girl@3DS@Role-Playing@260000.0@Atlus@Atlus@2013-10-01@80@41@8.2@102@T@2013@8.33
+624@6612@NHL 08@PlayStation 3@Action@250000.0@Electronic Arts@EA Canada@2007-09-11@86@23@7.0@24@E10+@2007@7.88
+625@6619@Journey@PlayStation 3@Adventure@250000.0@SCEA@ThatGameCompany@2012-03-13@92@78@8.8@1542@E@2012@9.36
+626@6620@Tearaway Unfolded@PlayStation 4@Platform@250000.0@SCEA@Media Molecule@2015-09-08@81@70@8.0@307@E@2015@8.42
+627@6626@The Chronicles of Riddick: Assault on Dark Athena@PlayStation 3@Shooter@250000.0@Atari@Starbreeze@2009-04-07@80@45@8.0@46@M@2009@7.81
+628@6660@NHL 08@Xbox 360@Action@250000.0@Electronic Arts@EA Canada@2007-09-12@85@44@8.2@44@E10+@2007@8.12
+629@6707@L.A. Noire: The Complete Edition@PC@Adventure@250000.0@Rockstar Games@Rockstar Leeds@2011-11-08@83@28@8.0@1238@M@2011@8.08
+630@6709@Hitman: Absolution@PC@Action@250000.0@Square Enix@Io Interactive@2012-11-19@79@26@7.1@1644@M@2012@8.43
+631@6751@Pro Evolution Soccer 2014@Xbox 360@Action@250000.0@Konami@Konami@2013-09-24@80@23@4.2@115@E@2013@7.29
+632@6780@Trials Fusion@Xbox One@Racing@240000.0@Ubisoft@RedLynx@2014-04-16@80@28@7.1@170@E10+@2014@7.51
+633@6836@Street Fighter X Tekken@PlayStation Vita@Fighting@240000.0@Capcom@Capcom@2012-10-23@79@25@7.5@74@T@2012@8.37
+634@6839@Metro 2033@PC@Shooter@240000.0@THQ@4A Games@2010-03-16@81@40@8.0@1932@M@2010@8.09
+635@6841@Stella Glow@3DS@Role-Playing@240000.0@Atlus@Image Epoch@2015-11-17@79@32@8.5@125@T@2015@8.5
+636@6989@Total War: Attila@PC@Strategy@230000.0@Sega@Creative Assembly@2015-02-17@80@66@7.4@634@T@2015@7.82
+637@7029@NBA 2K6@Xbox 360@Action@230000.0@2K Sports@Visual Concepts@2005-11-16@81@33@8.3@37@E@2005@7.65
+638@7050@Project CARS@Xbox One@Racing@230000.0@Bandai Namco Games@Slightly Mad Studios@2015-05-12@81@16@5.7@157@E@2015@7.57
+639@7074@Rocket League@PlayStation 4@Sports@230000.0@505 Games@Psyonix@2015-07-07@85@50@8.4@1862@E@2015@8.66
+640@7212@The Legend of Heroes: Trails of Cold Steel@PlayStation 3@Role-Playing@220000.0@XSEED Games@Falcom@2015-12-22@86@12@8.7@170@T@2015@8.3
+641@7267@Dead Island@PC@Action@220000.0@Deep Silver@Techland@2011-09-05@80@24@6.9@1574@M@2011@8.04
+642@7320@Steins;Gate@PlayStation Vita@Adventure@210000.0@5pb@5pb@2015-06-05@83@16@8.8@127@M@2015@8.61
+643@7455@Rayman Legends@PlayStation Vita@Platform@210000.0@Ubisoft@Ubisoft Montpellier@2013-09-03@87@8@8.4@189@E10+@2013@8.97
+644@7509@You Don't Know Jack@Xbox 360@Misc@200000.0@THQ@Jellyvision@2011-02-08@82@23@7.9@29@T@2011@7.82
+645@7566@XCOM 2@PC@Strategy@200000.0@2K Games@Firaxis Games@2016-02-05@88@104@7.3@1600@T@2016@8.64
+646@7684@South Park: The Stick of Truth@PC@Role-Playing@200000.0@Ubisoft@Obsidian Entertainment@2014-03-04@85@48@8.6@2176@M@2014@9.01
+647@7692@Resident Evil: Revelations@Wii U@Action@200000.0@Capcom@Capcom@2013-05-21@80@19@7.8@196@M@2013@8.17
+648@7746@Metro: Last Light@PC@Action@190000.0@Deep Silver@4A Games@2013-05-13@82@71@8.5@3178@M@2013@8.12
+649@7821@Plants vs. Zombies@PlayStation 3@Strategy@190000.0@PopCap@PopCap@2011-02-08@85@8@8.1@65@E10+@2011@8.67
+650@7874@Saints Row IV@PC@Action@190000.0@Deep Silver@Volition Inc.@2013-08-19@86@45@7.4@1845@M@2013@8.61
+651@7932@F1 2011@PC@Racing@190000.0@Codemasters@Codemasters@2011-09-19@83@10@7.1@92@E@2011@7.63
+652@7951@Call of Duty: World at War@PC@Shooter@190000.0@Activision@Treyarch@2008-11-10@83@36@7.7@1087@M@2008@8.64
+653@8035@Borderlands@PC@Shooter@180000.0@2K Games@Gearbox Software@2009-10-26@81@37@7.6@1741@M@2009@8.56
+654@8058@Driver: San Francisco@PC@Racing@180000.0@Ubisoft@Ubisoft Reflections@2011-09-27@80@11@7.2@412@T@2011@7.67
+655@8096@FIFA Soccer 11@PC@Sports@180000.0@EA Sports@EA Sports@2010-09-28@83@16@7.6@129@E@2010@7.61
+656@8119@Dark Souls II@PC@Role-Playing@180000.0@Bandai Namco Games@From Software@2014-04-25@91@36@7.2@2836@T@2014@8.72
+657@8136@FIFA 16@PC@Sports@180000.0@EA Sports@EA Sports@2015-09-22@81@10@4.6@358@E@2015@7.27
+658@8201@You Don't Know Jack@PlayStation 3@Misc@180000.0@THQ@Jellyvision@2011-02-08@82@11@8.2@17@T@2011@8.02
+659@8352@Sid Meier's Civilization IV@PC@Strategy@170000.0@2K Games@Firaxis Games@2005-10-25@94@50@8.2@1104@E10+@2005@8.41
+660@8618@Bulletstorm@PC@Shooter@160000.0@Electronic Arts@Epic Games@2011-02-21@82@34@7.7@887@M@2011@7.86
+661@8648@Darksiders II@Wii U@Action@160000.0@THQ@Vigil Games@2012-11-18@85@36@7.7@179@M@2012@8.39
+662@8659@Yakuza Kiwami@PlayStation 4@Adventure@160000.0@Sega@Ryu ga Gotoku Studios@2017-08-29@80@70@7.9@551@M@2017@8.32
+663@8679@DiRT 3@PC@Racing@160000.0@Codemasters@Codemasters@2011-05-23@86@23@7.0@519@T@2011@8.17
+664@8700@Darksiders II@PC@Action@160000.0@THQ@Vigil Games@2012-08-13@81@23@7.9@811@M@2012@8.51
+665@8795@Darksiders@PC@Action@150000.0@THQ@Vigil Games@2010-09-23@83@18@7.7@809@M@2010@8.41
+666@8846@Terraria@PC@Action@150000.0@Re-Logic@Re-Logic@2011-05-16@83@29@8.7@2320@T@2011@8.88
+667@8852@The Legend of Heroes: Trails of Cold Steel II@PlayStation Vita@Role-Playing@150000.0@XSEED Games@Falcom@2016-09-06@80@26@8.3@73@T@2016@8.41
+668@8930@F1 2012@PC@Racing@150000.0@Codemasters@Codemasters@2012-09-17@80@15@7.2@130@E@2012@8.43
+669@8962@Alien: Isolation@PC@Shooter@150000.0@Sega@Creative Assembly@2014-10-06@81@41@8.5@2091@M@2014@8.51
+670@9063@Cave Story 3D@3DS@Platform@140000.0@NIS America@Nicalis@2011-11-08@82@29@8.1@70@E10+@2011@8.31
+671@9078@Star Wars: Knights of the Old Republic@PC@Role-Playing@140000.0@LucasArts@BioWare@2003-11-18@93@33@9.0@2111@T@2003@8.56
+672@9228@NBA 2K13@Wii U@Sports@140000.0@2K Sports@Visual Concepts@2012-11-18@85@17@7.1@45@E@2012@8.24
+673@9232@Cities: Skylines@PC@Simulation@140000.0@Paradox Interactive@Colossal Order@2015-03-10@85@60@8.8@1924@E@2015@8.83
+674@9362@Shovel Knight@3DS@Platform@130000.0@Yacht Club Games@Yacht Club Games@2014-06-26@90@9@8.3@293@E@2014@9.16
+675@9372@Euro Truck Simulator 2@PC@Action@130000.0@SCS Software@SCS Software@2013-01-16@79@18@8.7@1413@unknown@2013@8.76
+676@9449@Diablo II@PC@Role-Playing@130000.0@Blizzard Entertainment@Blizzard North@2000-06-29@88@34@8.8@1498@M@2000@8.3
+677@9513@Brothers: A Tale of Two Sons@PlayStation 4@Adventure@130000.0@505 Games@Starbreeze@2015-08-11@81@10@8.1@204@T@2015@8.42
+678@9518@Warcraft III: Reign of Chaos@PC@Strategy@130000.0@Blizzard Entertainment@Blizzard Entertainment@2002-07-03@92@40@9.2@2169@T@2002@8.68
+679@9549@Just Cause 2@PC@Action@130000.0@Square Enix@Avalanche Studios@2010-03-23@84@33@7.7@1030@M@2010@8.47
+680@9578@Gravity Rush Remastered@PlayStation 4@Action@130000.0@SCEA@Bluepoint Games@2016-02-02@80@62@8.1@449@T@2016@8.65
+681@9678@Sleeping Dogs@PC@Action@120000.0@Square Enix@United Front Games@2012-08-13@80@23@8.2@1471@M@2012@8.59
+682@9713@Rocket League@Xbox One@Sports@120000.0@505 Games@Psyonix@2016-02-17@87@22@8.0@332@E@2016@8.68
+683@10040@DiRT Rally@Xbox One@Racing@110000.0@Codemasters@Codemasters@2016-04-05@86@17@7.9@86@E@2016@8.3
+684@10167@Project CARS@PC@Racing@110000.0@Bandai Namco Games@Slightly Mad Studios@2015-05-06@83@48@7.1@480@E@2015@7.92
+685@10176@Machinarium@PC@Adventure@110000.0@Amanita Design@Amanita Design@2009-10-16@85@47@8.7@674@unknown@2009@8.76
+686@10200@FlatOut: Ultimate Carnage@Xbox 360@Racing@110000.0@Empire Interactive@Bugbear@2007-10-02@80@44@8.6@72@T@2007@7.71
+687@10260@Terraria@PlayStation Vita@Action@110000.0@505 Games@Engine Software@2013-12-17@85@17@8.0@115@T@2013@8.69
+688@10349@Tom Clancy's Splinter Cell: Conviction@PC@Action@110000.0@Ubisoft@Ubisoft Montreal@2010-04-27@83@20@5.5@781@M@2010@7.59
+689@10400@Shovel Knight@Wii U@Platform@110000.0@Yacht Club Games@Yacht Club Games@2014-06-26@88@24@8.4@314@E@2014@9.21
+690@10408@Child of Light@PlayStation Vita@Role-Playing@110000.0@Ubisoft@Ubisoft Montreal@2014-07-01@83@15@7.9@127@E10+@2014@8.57
+691@10419@Winning Eleven: Pro Evolution Soccer 2007@Xbox 360@Sports@100000.0@Konami@KCET@2007-02-06@79@22@6.5@34@E@2007@7.63
+692@10489@Rome: Total War@PC@Strategy@100000.0@Activision@Creative Assembly@2004-09-22@92@58@9.0@1394@T@2004@8.77
+693@10558@Pro Evolution Soccer 2016@Xbox One@Sports@100000.0@Konami@Konami@2015-09-15@85@14@6.0@151@E@2015@8.08
+694@10593@Total War: WARHAMMER@PC@Strategy@100000.0@SegaSoft@Creative Assembly@2016-05-24@86@77@7.4@803@T@2016@8.09
+695@10649@Ultimate Marvel vs. Capcom 3@PlayStation 3@Fighting@100000.0@Capcom@Capcom@2011-11-15@80@36@6.6@140@T@2011@8.12
+696@10721@Burnout Paradise: The Ultimate Box@PC@Racing@100000.0@Electronic Arts@Criterion Games@2009-02-05@87@26@7.6@561@E10+@2009@8.41
+697@10733@Rise of the Tomb Raider@PC@Adventure@100000.0@Square Enix@Crystal Dynamics@2016-01-28@86@45@7.9@1753@M@2016@8.87
+698@10758@Wasteland 2@PC@Role-Playing@100000.0@InXile Entertainment@InXile Entertainment@2014-09-18@81@65@7.2@1212@M@2014@8.07
+699@10848@Medieval II: Total War@PC@Strategy@90000.0@Sega@Creative Assembly@2006-11-13@88@39@9.0@884@T@2006@8.83
+700@11149@Age of Mythology@PC@Strategy@90000.0@Microsoft Game Studios@Ensemble Studios@2002-11-01@89@31@8.9@689@T@2002@8.13
+701@11160@Star Wars: Empire at War@PC@Strategy@90000.0@LucasArts@Petroglyph@2006-02-15@79@45@8.3@304@T@2006@8.67
+702@11216@Pro Evolution Soccer 2013@PC@Sports@90000.0@Konami@Konami@2012-09-25@80@8@7.1@246@E@2012@7.71
+703@11290@Battlefield 2@PC@Shooter@80000.0@EA Games@Digital Illusions@2005-06-21@91@55@8.4@1056@T@2005@8.41
+704@11374@Steins;Gate@PlayStation 3@Adventure@80000.0@5pb@Nitro+@2015-06-05@83@8@8.7@78@M@2015@8.58
+705@11379@Bejeweled 3@PC@Puzzle@80000.0@PopCap@PopCap@2010-12-07@82@27@7.8@111@E@2010@8.69
+706@11485@Tomb Raider: Underworld@PC@Action@80000.0@Eidos Interactive@Nixxes Software@2008-11-18@80@20@7.7@342@T@2008@7.56
+707@11515@Silent Hunter III@PC@Simulation@80000.0@Ubisoft@Ubisoft@2005-03-15@90@23@7.8@111@T@2005@8.31
+708@11605@Rayman Origins@PC@Platform@80000.0@Ubisoft@UBlart Montpellier@2012-03-29@86@11@8.3@418@E10+@2012@8.79
+709@11704@Metal Gear Solid V: The Phantom Pain@PC@Action@80000.0@Konami@Kojima Productions@2015-09-01@91@13@7.8@2668@M@2015@8.98
+710@11748@Torchlight@PC@Role-Playing@70000.0@Encore Software, Inc.@Runic Games@2009-10-27@83@57@7.9@877@T@2009@8.28
+711@11946@Fable: The Lost Chapters@PC@Role-Playing@70000.0@Microsoft Game Studios@Lionhead Studios@2005-09-20@83@54@8.6@675@M@2005@8.36
+712@11957@Football Manager 2010@PC@Sports@70000.0@Sega@Sports Interactive@2009-11-03@87@33@8.8@291@E@2009@8.45
+713@12068@Command & Conquer 3: Tiberium Wars@PC@Strategy@70000.0@EA Games@EA LA@2007-03-26@85@47@8.0@499@T@2007@8.43
+714@12096@Resident Evil 5@PC@Action@70000.0@Capcom@Capcom@2009-09-15@86@30@7.2@947@M@2009@7.99
+715@12110@Alan Wake@PC@Action@70000.0@Remedy Entertainment@Remedy Entertainment@2012-02-16@83@30@8.0@1995@T@2012@8.59
+716@12229@Pro Evolution Soccer 2015@PC@Sports@70000.0@Konami@Konami@2014-11-13@82@8@5.6@198@unknown@2014@7.26
+717@12385@Blur@PC@Racing@60000.0@Activision@Bizarre Creations@2010-05-25@81@24@7.4@237@E10+@2010@7.56
+718@12398@Unreal Tournament III@PC@Shooter@60000.0@Epic Games@Epic Games@2007-11-19@83@41@8.0@573@M@2007@8.3
+719@12410@Call of Duty 2@PC@Shooter@60000.0@Activision@Infinity Ward@2005-10-25@86@64@8.5@1019@T@2005@8.46
+720@12434@Zero Escape: Zero Time Dilemma@3DS@Adventure@60000.0@Aksys Games@Spike Chunsoft@2016-06-28@81@19@8.0@94@M@2016@8.24
+721@12452@Zero Escape: Zero Time Dilemma@PlayStation Vita@Adventure@60000.0@Aksys Games@Spike Chunsoft@2016-06-28@83@31@8.2@142@M@2016@8.45
+722@12454@S.T.A.L.K.E.R.: Call of Pripyat@PC@Shooter@60000.0@Viva Media@GSC Game World@2010-02-02@80@44@8.7@990@M@2010@8.62
+723@12467@The Witcher@PC@Role-Playing@60000.0@Atari@CD Projekt Red Studio@2007-10-30@81@50@8.7@1534@M@2007@8.09
+724@12542@Need for Speed: Shift@PC@Racing@60000.0@EA Games@Slightly Mad Studios@2009-09-15@83@22@5.9@491@E@2009@7.82
+725@12574@LEGO Batman: The Videogame@PC@Action@60000.0@Warner Bros. Interactive Entertainment@Traveller's Tales@2008-09-23@80@15@7.9@117@E10+@2008@7.91
+726@12624@S.T.A.L.K.E.R.: Shadow of Chernobyl@PC@Shooter@60000.0@THQ@GSC Game World@2007-03-20@82@44@8.5@1681@M@2007@8.61
+727@12705@Mirror's Edge@PC@Platform@60000.0@EA Games@EA DICE@2009-01-12@81@44@8.0@1352@T@2009@8.28
+728@12764@F1 2010@PC@Racing@60000.0@Codemasters@Codemasters Birmingham@2010-09-21@84@15@6.9@118@E@2010@8.04
+729@12901@Dark Souls III@PC@Role-Playing@50000.0@Bandai Namco Games@From Software@2016-04-11@89@56@8.5@3543@M@2016@9.01
+730@13034@Plants vs. Zombies@PC@Strategy@50000.0@PopCap@PopCap@2009-05-05@87@41@8.8@1207@E10+@2009@8.94
+731@13072@Child of Light@PlayStation 4@Role-Playing@50000.0@Ubisoft@Ubisoft Montreal@2014-04-29@82@46@8.0@617@E10+@2014@8.73
+732@13083@Steins;Gate 0@PlayStation Vita@Adventure@50000.0@PQube@5pb@2016-11-29@84@10@8.6@54@M@2016@8.6
+733@13125@Steins;Gate 0@PlayStation 4@Adventure@50000.0@PQube@5pb@2016-11-29@81@20@8.1@94@M@2016@8.6
+734@13141@Warhammer 40,000: Dawn of War@PC@Strategy@50000.0@THQ@Relic@2004-09-20@86@51@8.7@419@M@2004@8.59
+735@13230@Worms Reloaded@PC@Strategy@50000.0@Team17@Team17@2010-08-26@79@28@6.9@196@E10+@2010@8.13
+736@13252@Far Cry@PC@Shooter@50000.0@Ubisoft@Crytek@2004-03-23@89@72@8.0@1070@M@2004@8.04
+737@13289@The Sims@PC@Simulation@50000.0@Maxis@Maxis@2000-02-04@92@38@7.9@708@T@2000@8.05
+738@13299@Payday 2@PC@Shooter@50000.0@505 Games@Overkill Software@2013-08-13@79@51@3.8@3822@M@2013@8.22
+739@13303@Company of Heroes@PC@Strategy@50000.0@THQ@Relic@2006-09-13@93@55@8.8@1372@M@2006@8.91
+740@13340@Supreme Commander@PC@Strategy@50000.0@THQ@Gas Powered Games@2007-02-20@86@44@8.3@322@E10+@2007@8.51
+741@13430@Tropico 3@PC@Strategy@50000.0@Kalypso@Haemimont@2009-10-20@79@48@8.1@201@T@2009@8.26
+742@13564@Life is Strange@PC@Adventure@40000.0@Square Enix@DONTNOD Entertainment@2015-10-20@83@15@8.6@2947@M@2015@7.86
+743@13704@XCOM 2@PlayStation 4@Strategy@40000.0@2K Games@Firaxis Games@2016-09-27@87@29@7.3@453@T@2016@8.24
+744@13705@Company of Heroes: Opposing Fronts@PC@Strategy@40000.0@THQ@Relic@2007-09-24@87@36@8.7@251@M@2007@8.3
+745@13734@Grand Theft Auto: Vice City@PC@Action@40000.0@Rockstar Games@Rockstar North@2003-05-12@94@30@8.8@2728@M@2003@8.65
+746@13781@Nobunaga's Ambition: Sphere of Influence@PlayStation 4@Strategy@40000.0@Koei Tecmo Games@Koei Tecmo Games@2015-09-01@80@20@7.6@60@T@2015@8.05
+747@13854@Supreme Commander: Forged Alliance@PC@Strategy@40000.0@THQ@Gas Powered Games@2007-11-06@81@35@8.9@277@E10+@2007@8.74
+748@13886@Halo: Combat Evolved@PC@Shooter@40000.0@Microsoft Game Studios@Gearbox Software@2003-09-30@83@40@7.7@558@M@2003@8.11
+749@13982@Trine 2@PC@Platform@40000.0@Frozenbyte, Inc.@Frozenbyte, Inc.@2011-12-07@84@55@8.3@739@E10+@2011@8.79
+750@14013@World of Goo@PC@Puzzle@40000.0@Take-Two Interactive@2D Boy@2008-10-12@90@26@8.4@738@E@2008@8.78
+751@14041@Tomb Raider: Anniversary@PC@Action@40000.0@Eidos Interactive@Nixxes Software@2007-06-05@83@26@8.1@332@T@2007@8.04
+752@14084@Hitman: Blood Money@PC@Action@40000.0@Eidos Interactive@Io Interactive@2006-05-30@82@35@8.8@771@M@2006@8.52
+753@14148@Prey@PC@Shooter@30000.0@Bethesda Softworks@Arkane Studios@2017-05-05@82@38@8.1@1321@M@2017@8.46
+754@14161@Rise of Nations: Rise of Legends@PC@Strategy@30000.0@Microsoft Game Studios@Big Huge Games@2006-05-09@84@46@8.4@129@T@2006@7.9
+755@14207@Red Faction: Guerrilla@PC@Shooter@30000.0@THQ@Volition Inc.@2009-09-15@82@29@7.6@364@M@2009@8.42
+756@14246@Trials Fusion@PC@Racing@30000.0@Ubisoft@RedLynx@2014-04-16@80@12@6.9@114@E10+@2014@7.29
+757@14252@The Binding of Isaac@PC@Action@30000.0@Edmund McMillen@Edmund McMillen@2011-09-28@84@30@8.3@1106@unknown@2011@8.88
+758@14302@Men of War@PC@Strategy@30000.0@Aspyr@Best Way@2009-03-16@80@22@8.0@164@M@2009@8.11
+759@14330@Neverwinter Nights@PC@Role-Playing@30000.0@Atari@BioWare@2002-06-16@91@34@8.2@630@T@2002@7.87
+760@14384@Homeworld 2@PC@Strategy@30000.0@Sierra Entertainment@Relic@2003-09-16@83@31@8.4@146@T@2003@8.17
+761@14386@Hearts of Iron IV@PC@Strategy@30000.0@Paradox Interactive@Paradox Development Studio@2016-06-06@83@37@7.5@740@unknown@2016@8.6
+762@14405@Zero Escape: Virtue's Last Reward@3DS@Adventure@30000.0@Aksys Games@ChunSoft@2012-10-23@88@15@8.7@247@M@2012@8.99
+763@14411@Empire Earth II@PC@Strategy@30000.0@Sierra Entertainment@Mad Doc Software@2005-04-26@79@39@7.2@111@T@2005@7.48
+764@14468@Sins of a Solar Empire@PC@Strategy@30000.0@Stardock@Ironclad Games@2008-02-04@87@52@8.2@288@T@2008@8.16
+765@14480@Shantae and the Pirate's Curse@3DS@Platform@30000.0@Rising Star Games@WayForward@2014-10-23@82@18@8.5@131@T@2014@8.81
+766@14503@GTR Evolution@PC@Racing@30000.0@Take-Two Interactive@SimBin@2008-09-01@83@19@7.8@70@E@2008@7.97
+767@14529@Braid@PC@Platform@30000.0@MumboJumbo@Number None Inc.@2009-04-10@90@11@8.6@966@E10+@2009@8.41
+768@14658@Battlefield Vietnam@PC@Shooter@30000.0@EA Games@Digital Illusions@2004-03-14@84@48@7.5@174@T@2004@7.88
+769@14725@Max Payne 2: The Fall of Max Payne@PC@Shooter@30000.0@Rockstar Games@Remedy Entertainment@2003-10-14@86@46@8.9@1343@M@2003@8.45
+770@14741@Pro Evolution Soccer 2017@Xbox One@Sports@30000.0@Konami@Konami@2016-09-13@87@12@5.9@99@E@2016@8.29
+771@14758@DiRT Rally@PC@Racing@30000.0@Codemasters@Codemasters@2015-12-07@86@33@8.5@440@E@2015@8.61
+772@14786@Battlefield 2142@PC@Shooter@30000.0@EA Games@EA DICE@2006-10-17@80@48@6.8@363@T@2006@7.77
+773@14799@Guild Wars@PC@Role-Playing@30000.0@NCSOFT@ArenaNet@2005-04-26@89@53@8.3@485@T@2005@8.43
+774@14839@Dungeon Siege II@PC@Role-Playing@30000.0@Microsoft Game Studios@Gas Powered Games@2005-08-16@80@51@7.8@208@M@2005@7.42
+775@14844@SWAT 4@PC@Shooter@30000.0@Sierra Entertainment@Irrational Games@2005-04-05@85@49@8.6@308@M@2005@8.17
+776@14873@Neverwinter Nights 2@PC@Role-Playing@30000.0@Atari@Obsidian Entertainment@2006-10-31@82@46@6.6@650@T@2006@7.81
+777@14875@Battlefield 1942@PC@Shooter@30000.0@EA Games@Digital Illusions@2002-09-10@89@27@8.5@448@T@2002@7.97
+778@15026@Brothers in Arms: Hell's Highway@PC@Shooter@20000.0@Ubisoft@Gearbox Software@2008-10-07@79@22@7.7@172@M@2008@8.16
+779@15092@Left 4 Dead@PC@Shooter@20000.0@Electronic Arts@Valve Software@2008-11-17@89@58@9.0@4157@M@2008@8.9
+780@15124@Test Drive Unlimited@PC@Racing@20000.0@Atari@Eden Studios@2007-03-20@79@18@8.1@170@T@2007@7.92
+781@15142@Max Payne@PC@Shooter@20000.0@Gathering@Remedy Entertainment@2001-07-23@89@32@9.1@1759@M@2001@8.42
+782@15147@Overlord@PC@Strategy@20000.0@Codemasters@Triumph Studios@2007-06-26@81@27@8.1@307@T@2007@8.34
+783@15153@Rocket League@PC@Sports@20000.0@505 Games@Psyonix@2015-07-05@86@20@7.7@1291@E@2015@8.61
+784@15185@Quake 4@PC@Shooter@20000.0@Activision@Raven Software@2005-10-11@81@62@7.6@378@M@2005@7.73
+785@15201@Darksiders@PlayStation 3@Action@20000.0@THQ@Vigil Games@2010-01-05@82@73@7.9@379@M@2010@8.47
+786@15203@Indigo Prophecy@PC@Adventure@20000.0@Atari@Quantic Dream@2005-09-20@85@41@8.3@466@M@2005@7.93
+787@15270@Dungeon Defenders@PC@Role-Playing@20000.0@Trendy Entertainment@Trendy Entertainment@2011-10-18@81@26@7.3@416@E10+@2011@8.46
+788@15412@Deus Ex: Mankind Divided@PC@Role-Playing@20000.0@Square Enix@Eidos Montreal@2016-08-23@83@56@6.8@1271@M@2016@7.71
+789@15674@Unreal Tournament 2004@PC@Shooter@20000.0@Atari@Epic Games@2004-03-16@93@48@8.8@749@M@2004@8.85
+790@15748@LEGO Star Wars II: The Original Trilogy@PC@Action@20000.0@LucasArts@Traveller's Tales@2006-09-12@86@20@8.1@103@E10+@2006@7.87
+791@15766@Divinity: Original Sin@PC@Role-Playing@20000.0@Larian Studios Games@Larian Studios Games@2014-01-17@87@59@8.7@2228@M@2014@8.72
+792@15784@Gears of War@PC@Shooter@20000.0@Microsoft Game Studios@Epic Games@2007-11-06@87@36@7.7@686@M@2007@8.32
+793@15804@XCOM 2@Xbox One@Strategy@20000.0@2K Games@Firaxis Games@2016-09-27@87@17@7.6@107@T@2016@7.91
+794@15898@Enemy Territory: Quake Wars@PC@Shooter@20000.0@Activision@Splash Damage@2007-10-02@84@55@8.3@243@T@2007@7.95
+795@15926@Pillars of Eternity@PC@Role-Playing@20000.0@Paradox Interactive@Obsidian Entertainment@2015-03-26@89@71@8.3@2567@M@2015@8.65
+796@16236@Marvel: Ultimate Alliance@PC@Role-Playing@10000.0@Activision@Raven Software@2006-10-24@82@22@7.8@81@T@2006@7.55
+797@16286@The Chronicles of Riddick: Assault on Dark Athena@PC@Shooter@10000.0@Atari@Starbreeze@2009-04-07@80@26@7.8@171@M@2009@7.87
+798@16459@Art Academy: Home Studio@Wii U@Misc@10000.0@Nintendo@Headstrong Games@2015-06-25@82@9@7.9@22@E@2015@8.26
+799@16512@Trine@PC@Action@10000.0@SouthPeak Games@Frozenbyte, Inc.@2009-07-02@80@50@8.1@597@E10+@2009@8.61
